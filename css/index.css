@@ -294,17 +294,21 @@ td a:hover {
 }
 
 
+
+
+
 @media (max-width: 768px) {
     .table caption {
-        display: table-caption !important;  /* 恢复原生效果，不要 block！ */
+        display: table-caption !important; /* 彻底恢复正常表头流 */
         text-align: center !important;
-        caption-side: top !important;
-        white-space: normal !important;
+        white-space: nowrap !important;
+        word-break: keep-all !important;
         font-size: 1.07em !important;
+        font-weight: bold;
         color: #24b090;
         padding: 5px 0 3px 0;
-        margin: 0;
-        word-break: keep-all !important;
+        margin: 0 auto !important;
         line-height: 1.7;
+        width: 100% !important;
     }
 }

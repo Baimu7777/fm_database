@@ -97,10 +97,10 @@ class APIHandler {
                         ? `<tr><td colspan="4" class="text-center text-muted">无结果</td></tr>`
                         : data.map(row => `
                             <tr>
-                                <td style="width:15%;">${row.en_name || ""}</td>
-                                <td style="width:15%;">${row.zh_name || ""}</td>
-                                <td style="width:35%;">${autoLink(row.summary || "")}</td>
-                                <td style="width:35%;">${autoLink(row.related || "")}</td>
+                                <td data-label="英文名" style="width:15%;">${row.en_name || ""}</td>
+                                <td data-label="中文名" style="width:15%;">${row.zh_name || ""}</td>
+                                <td data-label="概述" style="width:35%;">${autoLink(row.summary || "")}</td>
+                                <td data-label="相关" style="width:35%;">${autoLink(row.related || "")}</td>
                             </tr>
                         `).join("")
                 }
@@ -108,6 +108,7 @@ class APIHandler {
             </table>
         `;
     }
+    
 }
 
 // 页面全部加载后再挂载事件监听

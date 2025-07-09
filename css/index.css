@@ -179,35 +179,46 @@ td a:hover {
     .container,
     .card,
     .table-wrapper {
-        width: 98vw !important;
+        width: 99vw !important;
         min-width: 0 !important;
         margin: 0 auto !important;
         padding-left: 0 !important;
         padding-right: 0 !important;
+        box-sizing: border-box !important;
     }
     .card {
-        padding: 12px !important;
+        padding: 12px 5px !important;
+    }
+    .input-group {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: stretch !important;
+        width: 100% !important;
     }
     .form-control,
-    .input-group,
     #inputSearch {
         width: 100% !important;
         min-width: 0 !important;
         font-size: 1.13em !important;
-        height: 48px !important;
+        height: 46px !important;
         box-sizing: border-box !important;
-    }
-    .input-group {
-        flex-direction: column;
-        align-items: stretch;
+        margin-bottom: 8px !important;
     }
     #btnSubmit {
-        margin-top: 10px !important;
         width: 100% !important;
         font-size: 1.11em !important;
-        height: 46px !important;
+        height: 44px !important;
+        box-sizing: border-box !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
     }
-    /* 卡片式表格美化 */
+    #btnSubmit i {
+        margin-right: 6px;
+    }
+    /* 表格卡片化同前方案 */
     .table, .table thead, .table tbody, .table th, .table td, .table tr {
         display: block !important;
         width: 100% !important;
@@ -216,7 +227,7 @@ td a:hover {
         display: none !important;
     }
     .table tr {
-        margin-bottom: 16px;
+        margin-bottom: 14px;
         background: #fff;
         border-radius: 10px;
         box-shadow: 0 2px 8px rgba(44,186,156,0.05);
@@ -229,6 +240,7 @@ td a:hover {
         font-size: 1.09em !important;
         background: none !important;
         text-align: left !important;
+        box-sizing: border-box !important;
     }
     .table td:before {
         content: attr(data-label);
@@ -238,7 +250,6 @@ td a:hover {
         margin-bottom: 3px;
         font-size: 0.99em;
     }
-    /* 让 .table caption 居中 */
     .table caption {
         text-align: center !important;
         font-size: 1.09em !important;

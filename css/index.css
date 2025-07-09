@@ -325,3 +325,30 @@ caption {
     letter-spacing: 1px !important;
     line-height: 1.7 !important;
 }
+
+
+
+@media (max-width: 768px) {
+    .table tr {
+        width: 94vw !important;
+        max-width: 480px !important;  /* 控制单条卡片最大宽度 */
+        margin: 17px auto 0 auto !important;
+        background: #ffffff !important;
+        border-radius: 14px;
+        box-shadow: 0 2px 12px rgba(44,186,156,0.07);
+        border: 1px solid #c2e2d0 !important;
+        padding: 11px 10px 8px 10px;
+        display: block !important;
+        box-sizing: border-box !important;
+    }
+    /* 可选：让 caption/统计信息也跟卡片宽度对齐 */
+    .table caption {
+        max-width: 480px !important;
+        width: 94vw !important;
+        margin: 0 auto 12px auto !important;
+        text-align: left !important;
+        padding-left: 12px !important;
+        font-size: 1.13em !important;
+        color: #24b090 !important;
+    }
+}

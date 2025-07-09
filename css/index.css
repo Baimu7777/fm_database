@@ -174,18 +174,49 @@ td a:hover {
     margin-right: auto;
 }
 
-
-/* 移动端：表格变为卡片式显示 */
+/*移动端适应*/
 @media (max-width: 768px) {
+    .container,
+    .card,
+    .table-wrapper {
+        width: 98vw !important;
+        min-width: 0 !important;
+        margin: 0 auto !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .card {
+        padding: 12px !important;
+    }
+    .form-control,
+    .input-group,
+    #inputSearch {
+        width: 100% !important;
+        min-width: 0 !important;
+        font-size: 1.13em !important;
+        height: 48px !important;
+        box-sizing: border-box !important;
+    }
+    .input-group {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    #btnSubmit {
+        margin-top: 10px !important;
+        width: 100% !important;
+        font-size: 1.11em !important;
+        height: 46px !important;
+    }
+    /* 卡片式表格美化 */
     .table, .table thead, .table tbody, .table th, .table td, .table tr {
-        display: block;
+        display: block !important;
         width: 100% !important;
     }
     .table thead {
-        display: none;
+        display: none !important;
     }
     .table tr {
-        margin-bottom: 18px;
+        margin-bottom: 16px;
         background: #fff;
         border-radius: 10px;
         box-shadow: 0 2px 8px rgba(44,186,156,0.05);
@@ -195,33 +226,22 @@ td a:hover {
     .table td {
         border: none !important;
         padding: 8px 15px;
-        font-size: 1.08em;
-        position: relative;
+        font-size: 1.09em !important;
         background: none !important;
-        text-align: left;
+        text-align: left !important;
     }
     .table td:before {
         content: attr(data-label);
-        font-weight: 700;
+        font-weight: bold;
         color: #28a38d;
         display: block;
         margin-bottom: 3px;
-        font-size: 0.98em;
+        font-size: 0.99em;
     }
-}
-
-
-/*优化输入框*/
-@media (max-width: 768px) {
-    .form-control, .btn, .input-group {
-        font-size: 1.13em;
-        min-height: 45px;
-    }
-    .input-group {
-        flex-direction: column;
-    }
-    #btnSubmit {
-        margin-top: 8px;
-        width: 100%;
+    /* 让 .table caption 居中 */
+    .table caption {
+        text-align: center !important;
+        font-size: 1.09em !important;
+        margin-bottom: 5px !important;
     }
 }

@@ -39,7 +39,7 @@ class AlertHandler {
 }
 const alertHandler = new AlertHandler();
 
-// -------- 下面是你需要的核心逻辑 --------
+let globalApiHandler = null; // 全局变量，保证事件能用
 
 class APIHandler {
     constructor() {
@@ -110,19 +110,18 @@ class APIHandler {
     }
 }
 
-const apiHandler = new APIHandler();
+// 页面全部加载后再挂载事件监听
+window.addEventListener("DOMContentLoaded", function () {
+    globalApiHandler = new APIHandler();
 
-document.getElementById("btnSubmit").addEventListener("click", function() {
-    const keyword = document.getElementById("inputSearch").value.trim();
-    apiHandler.search(keyword);
+    document.getElementById("btnSubmit").addEventListener("click", function() {
+        const keyword = document.getElementById("inputSearch").value.trim();
+        globalApiHandler.search(keyword);
+    });
+    document.getElementById("inputSearch").addEventListener("keyup", function(e) {
+        if (e.key === "Enter") {
+            const keyword = document.getElementById("inputSearch").value.trim();
+            globalApiHandler.search(keyword);
+        }
+    });
 });
-document.getElementById("inputSearch").addEventListener("keyup", function(e) {
-    if (e.key === "Enter") document.getElementById("btnSubmit").click();
-});
-
-// 页面首次加载后自动搜索全部
-window.onload = function() {
-    if (apiHandler.loaded) {
-        apiHandler.updateTable(apiHandler.data);
-    }
-};

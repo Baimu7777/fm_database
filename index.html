@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>厌女游戏数据库</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/minty/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="./css/index.css" />
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="./js/index.js"></script>
+</head>
+<body>
+    <header class="container">
+        <h2 class="text-center">厌女游戏数据库</h2>
+    </header>
+
+    <div class="container mt-4">
+
+        <div class="container mt-4">
+
+            <!-- 介绍区域 -->
+            <div style="
+    background: #f0fffb;
+    border: 2px solid #29c196;
+    border-radius: 20px;
+    box-shadow: 0 6px 24px rgba(60,110,90,0.08);
+    max-width: 900px;
+    min-width: 450px;
+    margin: 0 auto 2.2rem auto;
+    padding: 2em 2.8em 1.5em 2.8em;
+    font-size:1.15rem;
+    color:#1b4640;
+    font-weight: 500;
+    text-align: center;
+">
+    <strong style="font-size:1.15em;letter-spacing:1px; display:block; margin-bottom:1em;">📖 本数据库收录了女性玩家关心的游戏信息、性别表现及相关争议，内容均来自真实女性玩家的反馈。感谢每一位发出声音的玩家。</strong>
+    <ul style="margin-top:1.2em; margin-bottom:0; font-weight:400; list-style-position: inside; display:inline-block; text-align:left;">
+        <li>🐾 <a href="https://www.douban.com/group/topic/328461605/?_spm_id=MjA4Nzg3NDUy&_i=16243192WOdhIi" target="_blank" rel="noopener" style="color:#4ca68a;text-decoration:underline;">把小动物都默认成公的就把你们都xx了</a>：游戏中的动物性别设定</li>
+        <li>🦀 <a href="https://www.douban.com/group/topic/326648580/?_spm_id=NDYzNDI1Njg&_i=16237642WOdhIi" target="_blank" rel="noopener" style="color:#4ca68a;text-decoration:underline;">收集整理游戏里的trans角色</a>：含有跨性别（trans）角色的游戏汇总</li>
+        <li>💬 <a href="https://www.douban.com/group/topic/327053929/?_i=16233672WOdhIi,16256982WOdhIi" target="_blank" rel="noopener" style="color:#4ca68a;text-decoration:underline;">游戏短评吐槽楼</a>：女玩家对各类游戏的简短评价与讨论</li>
+    </ul>
+</div>
+
+
+        
+
+              
+        <!-- 搜索区域 -->
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 col-lg-6 mb-3">
+                <div class="card shadow-sm p-3 border-success">
+                    <h5 class="text-center text-success mb-3">搜索条目</h5>
+                    <div class="input-group">
+                        <input type="text" id="inputSearch" class="form-control" placeholder="输入关键词（支持中英文名/相关）">
+                        <button id="btnSubmit" class="btn btn-success" style="min-width:90px;">
+                            <i class="fas fa-search"></i> 搜索
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 结果区域 -->
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10 mt-3">
+                <div class="card shadow-sm p-3 border-success">
+                    <h5 class="text-center text-success mb-3">结果</h5>
+                    <button class="btn btn-outline-success mb-2 w-100" type="button" data-bs-toggle="collapse" data-bs-target="#tableCollapse">
+                        显示/隐藏表格
+                    </button>
+                    <div class="collapse show" id="tableCollapse">
+                        <div id="tableResults"></div>
+                    </div>
+                </div>
+                <div id="alerts" class="mt-3"></div>
+            </div>
+        </div>
+    </div>
+
+    <button id="backToTop" class="back-to-top" title="回到顶部">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+<footer style="text-align:center;padding:2em 0;color:#666; background: #eafaf3;">
+    原始数据库： 
+    <a href="https://www.notion.so/22606b503d0680ad9178f624247f5e6b" 
+       target="_blank" rel="noopener"
+       style="color:#43bfa7;text-decoration:underline;">
+       https://www.notion.so/22606b503d0680ad9178f624247f5e6b
+    </a>
+    <br>
+    <em style="font-size:0.97em;">
+        （本网页内容会定期同步，非实时更新）
+    </em>
+</footer>
+
+
+</html>

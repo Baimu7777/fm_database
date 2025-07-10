@@ -99,7 +99,7 @@ class APIHandler {
                     data.length === 0
                         ? `<tr><td colspan="4" class="text-center text-muted">无结果</td></tr>`
                         : data.map(row => `
-                            <tr class="fade-in">>
+                            <tr class="fade-in">
                                 <td data-label="英文名" style="width:15%;">${row.en_name || ""}</td>
                                 <td data-label="中文名" style="width:15%;">${row.zh_name || ""}</td>
                                 <td data-label="概述" style="width:35%;">${autoLink(row.summary || "")}</td>

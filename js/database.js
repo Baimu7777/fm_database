@@ -1,54 +1,34 @@
-class APIHandler {
+function autoLink(text) {
+    if (!text) return "";
+    return text.replace(
+        /(https?:\/\/[^\s<>"']+)/g,
+        '<a href="$1" target="_blank" rel="noopener">$1</a>'
+    );
+}
+
+class TableViewer {
     constructor() {
         this.data = [];
-        this.loaded = false;
         this.loadCSV();
     }
-
     loadCSV() {
         Papa.parse('data.csv', {
             header: true,
             download: true,
             complete: (results) => {
                 this.data = results.data;
-                this.loaded = true;
-                // this.updateTable(this.data); // 不再默认展示全部数据
+                this.renderTable(this.data);
             },
             error: (err) => {
-                alertHandler.show("数据加载失败: " + err.message);
+                document.getElementById("tableResults").innerHTML = `<div class="alert alert-danger">${err.message}</div>`;
             }
         });
     }
-
-    search(keyword) {
-        if (!this.loaded) {
-            alertHandler.show("数据还未加载完成，请稍等...");
-            return;
-        }
-        const kw = (keyword || "").toLowerCase();
-        if (!kw) {
-            this.updateTable([]); // 清空表格并隐藏
-            return;
-        }
-        const res = this.data.filter(row =>
-            (row.en_name && row.en_name.toLowerCase().includes(kw)) ||
-            (row.zh_name && row.zh_name.toLowerCase().includes(kw)) ||
-            (row.summary && row.summary.toLowerCase().includes(kw)) ||
-            (row.related && row.related.toLowerCase().includes(kw))
-        );
-        this.updateTable(res);
-    }
-
-    updateTable(data) {
+    renderTable(data) {
         const tableContainer = document.getElementById("tableResults");
-        if (!data || data.length === 0) {
-            tableContainer.innerHTML = "";
-            tableContainer.style.display = "none";
-            return;
-        }
         tableContainer.innerHTML = `
             <table class="table table-hover table-bordered">
-                <caption>${data.length === 0 ? "没有相关记录。" : `共找到 ${data.length} 条记录`}</caption>
+                <caption>共找到 ${data.length} 条记录</caption>
                 <thead>
                     <tr>
                         <th style="width:15%;">英文名</th>
@@ -73,6 +53,6 @@ class APIHandler {
                 </tbody>
             </table>
         `;
-        tableContainer.style.display = "block";
     }
 }
+new TableViewer();

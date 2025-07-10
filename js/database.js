@@ -10,7 +10,7 @@ class TableViewer {
     constructor() {
         this.data = [];
         this.currentIndex = 0;
-        this.pageSize = 100; // 每次显示100条
+        this.pageSize = 50; // 每次显示50条
         this.loadCSV();
     }
     loadCSV() {

@@ -88,7 +88,7 @@ class APIHandler {
                 <caption>${data.length === 0 ? "没有相关记录。" : `共找到 ${data.length} 条记录`}</caption>
                 <thead>
                     <tr>
-                        <th style="width:15%;">英文名</th>
+                        <th style="width:15%;">外文名</th>
                         <th style="width:15%;">中文名</th>
                         <th style="width:35%;">概述</th>
                         <th style="width:35%;">相关</th>
@@ -100,7 +100,7 @@ class APIHandler {
                         ? `<tr><td colspan="4" class="text-center text-muted">无结果</td></tr>`
                         : data.map(row => `
                             <tr class="fade-in">
-                                <td data-label="英文名" style="width:15%;">${row.en_name || ""}</td>
+                                <td data-label="外文名" style="width:15%;">${row.en_name || ""}</td>
                                 <td data-label="中文名" style="width:15%;">${row.zh_name || ""}</td>
                                 <td data-label="概述" style="width:35%;">${autoLink(row.summary || "")}</td>
                                 <td data-label="相关" style="width:35%;">${autoLink(row.related || "")}</td>

@@ -1,49 +1,879 @@
-﻿The Last of Us™ Part II,最后生还者2,艾莉为爹复仇＋女友接男宝
-Tomb Raider /Rise of the Tomb Raider /Shadow of the Tomb Raider,"古墓丽影/9
+﻿id,en_name,zh_name,summary,related
+1,Cultist Simulator＆BOOK OF HOURS,密教模拟器＆司辰之书,,https://www.douban.com/group/topic/327929673/?_spm_id=MTg4Njc0MjM1&_i=16241192WOdhIi
+2,Baldur's Gate 3,博德之门3,拉瑞安赞扬鼓励楼： https://www.douban.com/doubanapp/dispatch?uri=%2Fgroup%2Ftopic%2F330444098%3F_spm_id%3DMjYzNDQ5MTI4&_i=519315813d68755&dt_dapp=1,https://www.douban.com/group/topic/328944583/?_spm_id=MjA4Nzg3NDUy&_i=16230732WOdhIi
+3,Clair Obscur: Expedition 33,33号远征队,,https://www.douban.com/group/topic/326179426/?_spm_id=MjE1Mjc3NDI2&_i=16214042WOdhIi
+4,Elden Ring,艾尔登法环,,https://www.douban.com/group/topic/327244275/?_spm_id=Mjg3NzA4NTg2&_i=16195992WOdhIi
+5,Assassin's Creed Valhalla,刺客信条：英灵殿,,https://www.douban.com/group/topic/326425029/?_spm_id=MjgzMzYyMzIy
+6,Assassin's Creed® Odyssey,刺客信条奥德赛,,https://www.douban.com/group/topic/326467393/?_spm_id=MjQ5NTM2Mjgz&_i=16184432WOdhIi
+7,Split Fiction,双影奇境,,https://www.douban.com/group/topic/326359509/?_spm_id=Mjg2ODkzMTgx&_i=16180142WOdhIi
+8,The Last of Us Part II Remastered,最后生还者2,,https://www.douban.com/group/topic/327700938/?_spm_id=MTc3NzMyNjcw&_i=16202252WOdhIi
+9,モンスターハンター,怪物猎人系列,,https://www.douban.com/group/topic/327186383/?_spm_id=MTcyMjQ5Nzkx&_i=16219272WOdhIi
+10,Resident Evil,生化危机系列,,https://www.douban.com/group/topic/326969671/?_spm_id=MjgzMzYyMzIy&_i=16204012WOdhIi
+11,FF7 RE＆FF7 RB,最终幻想7重置版＆最终幻想7重生,,https://www.douban.com/group/topic/326157055/?_spm_id=MTkxMjU2MjMz&_i=16206062WOdhIi
+12,Final Fantasy XIV: Shadowbringers,最终幻想14：暗影之逆焰,,https://www.douban.com/group/topic/327929889/?_spm_id=MjQxMDk5ODk5&_i=16218502WOdhIi
+13,スプラトゥーン3,斯普拉遁3,,https://www.douban.com/group/topic/328540570/?_spm_id=Mjg0MTE1MjQ1&_i=16230252WOdhIi
+14,Rusty Lake,锈湖全系列,,https://www.douban.com/group/topic/326883481/?_spm_id=Mjg4NzkzMDIz&_i=16232452WOdhIi
+16,Ori and the Will of the Wisps＆Ori and the Blind Fo,奥日与萤火意志＆奥日与黑暗森林,,https://www.douban.com/group/topic/326963971/?_spm_id=Mjg3NzA4NTg2&_i=16228782WOdhIi
+17,Hollow Knight,空洞骑士,,https://www.douban.com/group/topic/326963971/?_spm_id=Mjg3NzA4NTg2&_i=16228782WOdhIi
+18,ファンタジーライフｉ グルグルの竜と時をぬすむ少女,幻想生活ｉ 转圈圈的龙和偷取时间的少女,,https://www.douban.com/group/topic/326816753/?_spm_id=MjMwMzAwNDE5&_i=16233992WOdhIi
+19,Victoria 3,维多利亚3,,https://www.douban.com/group/topic/327421747/?_spm_id=MTcyMjQ5Nzkx&_i=16218102WOdhIi
+20,Sid Meier's Civilization VI,文明6,,https://www.douban.com/group/topic/328032942/?_spm_id=MTMyMjE2MjUy&_i=16233212WOdhIi
+21,Slay the Spire,杀戮尖塔,,https://www.douban.com/group/topic/326768139/?_spm_id=MTMyMjE2MjUy&_i=16215452WOdhIi
+22,A Plague Tale: Innocence＆A Plague Tale: Requiem,瘟疫传说：无罪＆瘟疫传说：安魂曲,,"https://www.douban.com/group/topic/314416326/?_spm_id=MjgzMzYyMzIy&_i=16207842WOdhIi,16208002WOdhIi"
+23,The Elder Scrolls IV: Oblivion,上古卷轴4：湮灭,,https://www.douban.com/group/topic/327323677/?_spm_id=MjI2MDMyMDIz&_i=16222512WOdhIi
+24,Shadow Gambit: The Cursed Crew,影子诡局：被诅咒的海盗,,https://www.douban.com/group/topic/327660058/?_spm_id=MjYzNDQ5MTI4&_i=16199612WOdhIi
+25,Nine Sols,九日,,https://www.douban.com/group/topic/326188184/?_spm_id=Mjg4NzkzMDIz&_i=16192282WOdhIi
+26,ペルソナ3 ポータブル,女神异闻录3 携带版,,https://www.douban.com/group/topic/328788169/?_spm_id=MjgzMzYyMzIy&_i=16217552WOdhIi
+27,ペルソナ4 ザ·ゴールデン,女神异闻录4 黄金版,,https://www.douban.com/group/topic/327382092/?_spm_id=MTYzMDAxMTMy&_i=16214912WOdhIi
+28,Hades II,哈迪斯2,,https://www.douban.com/group/topic/328400299/?_spm_id=OTc1NjM5NTQ&_i=16216322WOdhIi
+29,Potion Craft: Alchemist Simulator,药剂工艺：炼金模拟器,,https://www.douban.com/group/topic/327694900/?_spm_id=MTg0ODA5NzQ3&_i=16225782WOdhIi
+30,Astro Bot,宇宙机器人,,https://www.douban.com/group/topic/326964268/?_spm_id=MjQ1MTkzNTM0&_i=16196772WOdhIi
+31,to the moon,去月球,,https://www.douban.com/group/topic/327185371/?_spm_id=MTQyMzI3MDc4&_i=16225542WOdhIi
+32,Tiny Pasture,动物栏：桌面牧场,,https://www.douban.com/group/topic/326395709/?_spm_id=MjYzNDQ5MTI4&_i=16230092WOdhIi
+33,キミガシネ　―多数決デスゲーム―,你去死吧——多数表决死亡游戏,,https://www.douban.com/group/topic/327333016/?_spm_id=MTgzNzk1NzE0&_i=16194792WOdhIi
+34,Desk Paws,桌宠屋,,https://www.douban.com/group/topic/329054978/?_spm_id=MTc2Njk2Mjc2&_i=16234232WOdhIi
+35,A Building Full of Cats 2,一栋满是猫的楼2,,https://www.douban.com/group/topic/329013555/?_spm_id=Mjg5MDYzNjk5&_i=16218942WOdhIi
+36,逆転裁判,逆转裁判系列,,https://www.douban.com/group/topic/328791452/?_spm_id=Mjg3NzA4NTg2&_i=16242862WOdhIi
+37,パラノマサイト FILE23 本所七不思議,灵视异闻 FILE23 本所七大不可思议,,https://www.douban.com/group/topic/326429218/?_spm_id=MTg2MTM2MTgz&_i=16192682WOdhIi
+38,Beyond: Two Souls,超凡双生,,https://www.douban.com/group/topic/313999810/?_spm_id=MjgzMzYyMzIy&_i=16209282WOdhIi
+39,A Way Out,逃出生天,,https://www.douban.com/group/topic/326258388/?_spm_id=MTU4NzQxNzEz&_i=16178782WOdhIi
+40,Road96 Mile0,九十六号0英里,,https://www.douban.com/group/topic/326433055/?_spm_id=MjgzMzYyMzIy&_i=16181562WOdhIi
+41,Carto,无尽旅图,,https://www.douban.com/group/topic/327939728/?_spm_id=MTk2NzU1Njg4&_i=16227852WOdhIi
+42,Buy a Croquette!,买个可乐饼吧！,,https://www.douban.com/group/topic/326748241/?_spm_id=MTkxMjU2MjMz&_i=16175412WOdhIi
+43,Staffer Case,异能缉凶,,https://www.douban.com/group/topic/326490776/?_spm_id=MTkxMjU2MjMz&_i=16184972WOdhIi
+44,The Excavation of Hob's Barrow,霍布古墓发掘记,,https://www.douban.com/group/topic/326327525/?_spm_id=MjgzMzYyMzIy&_i=16185832WOdhIi
+45,Spiritfarer,灵魂摆渡人,,https://www.douban.com/group/topic/330327063/?_spm_id=MTY1ODM4NTYz&_i=17271192WOdhIi
+46,Cyberpunk 2077,赛博朋克 2077,,https://www.douban.com/group/topic/330362810/?_spm_id=MjI2OTU0MDk4&_i=17770222WOdhIi
+47,Love You to Bits,,,https://www.douban.com/group/topic/330464658/?_spm_id=NDYzNDI1Njg&_i=18919942WOdhIi
+48,Emily is Away <3,,,https://www.douban.com/group/topic/326822133/?_spm_id=MjQ1MTkzNTM0&_i=16187342WOdhIi
+49,Open Roads,,,https://www.douban.com/group/topic/326843316/?_spm_id=MjQ5NTM2Mjgz&_i=16187942WOdhIi
+50,Alchemy and Weldcraft,炼丹与电焊,,https://www.douban.com/group/topic/326945593/?_spm_id=MTIyNTk3MDg5&_i=16191852WOdhIi
+51,Asterigos: Curse of the Stars,失落迷城群星的诅咒,,https://www.douban.com/group/topic/326317160/?_spm_id=MjgzMzYyMzIy&_i=16193832WOdhIi
+52,Let's School,学院构想家,,https://www.douban.com/group/topic/326275418/?_spm_id=MTU4NzQxNzEz&_i=16194312WOdhIi
+53,Yolk Heroes: A Long Tamago,勇者蛋生,,https://www.douban.com/group/topic/326695150/?_spm_id=Mjg4NzkzMDIz&_i=16197762WOdhIi
+54,文字遊戲,文字游戏,,https://www.douban.com/group/topic/326604649/?_spm_id=Mjg4NzkzMDIz&_i=16198332WOdhIi
+55,Phoenotopia Awakening,不死鸟传说：觉醒,,https://www.douban.com/group/topic/327654768/?_spm_id=MTc2Njc5Njc0&_i=16201262WOdhIi
+56,The Oregon Trail,俄勒冈之旅,,https://www.douban.com/group/topic/326178782/?_spm_id=NDYzNDI1Njg&_i=16202592WOdhIi
+57,Sin and Love,长安：石之舞,,https://www.douban.com/group/topic/326949744/?_spm_id=MTcyMjQ5Nzkx&_i=16203132WOdhIi
+58,Insects Awaken,谍：惊蛰,,https://www.douban.com/group/topic/327721616/?_spm_id=MjU5OTY4NDk3&_i=16203532WOdhIi
+59,Hauma,豪麻,,https://www.douban.com/group/topic/314173092/?_spm_id=MjgzMzYyMzIy
+60,GreedFall,贪婪之秋,,"https://www.douban.com/group/topic/327751901/?_spm_id=MjgzMzYyMzIy&_i=16207182WOdhIi,16208902WOdhIi"
+61,Tales of Berseria,狂战传说,,"https://www.douban.com/group/topic/327751901/?_spm_id=MjgzMzYyMzIy&_i=16207182WOdhIi,16208902WOdhIi"
+62,Ashwood Valley,,,https://www.douban.com/group/topic/327980976/?_spm_id=MTI3MjMxNDk0&_i=16204772WOdhIi
+63,Röki,洛基：北欧怪奇之旅,,"https://www.douban.com/group/topic/327751901/?_spm_id=MjgzMzYyMzIy&_i=16207182WOdhIi,16208902WOdhIi"
+64,beat slayer,节奏战士,,"https://www.douban.com/group/topic/327751901/?_spm_id=MjgzMzYyMzIy&_i=16207182WOdhIi,16208902WOdhIi"
+65,SCARLET NEXUS,绯色结系,,"https://www.douban.com/group/topic/327751901/?_spm_id=MjgzMzYyMzIy&_i=16207182WOdhIi,16208902WOdhIi"
+66,Oxenfree,奥森弗里,,https://www.douban.com/group/topic/313974393/?_spm_id=MjgzMzYyMzIy&_i=16213322WOdhIi
+67,Bloomtown: A Different Story,布卢姆敦：一个不同的故事,,https://www.douban.com/group/topic/326218602/?_spm_id=MTcyMjQ5Nzkx&_i=16215902WOdhIi
+68,lost in random,迷失混沌王国：永恒之骰,,https://www.douban.com/group/topic/328527835/?_spm_id=MjgzMzYyMzIy&_i=16217082WOdhIi
+69,Tainted Grail: the Fall of Avalon,污痕圣杯：阿瓦隆的陨落,,https://www.douban.com/group/topic/329044568/?_spm_id=MjAxNzU3MzQx&_i=16219742WOdhIi
+70,ENDER MAGNOLIA: Bloom in the Mist,终焉之玛格诺里亚,,https://www.douban.com/group/topic/329006013/?_spm_id=MTc2Njc5Njc0&_i=16221982WOdhIi
+71,Pillars of Eternity,永恒之柱,,https://www.douban.com/group/topic/327296583/?_spm_id=MjAxNzU3MzQx&_i=16223462WOdhIi
+72,Darkest Dungeon,暗黑地牢,,https://www.douban.com/group/topic/326766180/?_spm_id=MjQ3NzcxMjQz&_i=16225182WOdhIi
+73,Sailing Era,风帆纪元,,https://www.douban.com/group/topic/328840940/?_spm_id=MTQ5MTg4MTkz&_i=16232172WOdhIi
+74,Danchi Days,团地日和,,https://steamcommunity.com/profiles/76561198840411815/recommended/3312850?snr=1_5_9__402
+75,,我和未来有个约定,,https://www.douban.com/group/topic/329453470/?_spm_id=Mjg4NDY3MDE0&_i=16239802WOdhIi
+76,wylde flowers,怀尔德之花,,https://www.douban.com/group/topic/328905307/?_spm_id=MjQwNjI2MzU2&_i=16240502WOdhIi
+77,Untitled Goose Game,鹅作剧,,https://www.douban.com/group/topic/328262681/?_spm_id=Mjg4MDAwMzky&_i=16243732WOdhIi
+78,Thank Goodness You're Here!,谢天谢地你在这里！,,https://www.douban.com/group/topic/328262681/?_spm_id=Mjg4MDAwMzky&_i=16243732WOdhIi
+79,Lost in Play,迷失游戏,,https://www.douban.com/group/topic/328262681/?_spm_id=Mjg4MDAwMzky&_i=16243732WOdhIi
+80,AER Memories of Old,AER古老的回忆,,https://www.douban.com/group/topic/330187880/?_spm_id=Mjc0NjM1NzUz&_i=16246202WOdhIi
+81,The Excavation of Hob's Barrow,霍布古墓发掘记,句句不离爹,
+82,venba,薇妮巴一家,被老公pua生病还要做饭,
+83,If Found...,如寻获……,mtf,
+84,Dordogne,田园记,双男工作室，野生小男孩抢剧情高光，预告片男主创提到是拿自己童年经历改变的故事,
+85,Tchia,奇娅,救了弟弟后被抢王位,
+86,2024.11-2025.04 所有月包内key的简单排雷（主要标注了一些男主游戏）,明确雷点的key已转移至下方，帖子里有一些其它key的游戏种类信息，有兴趣可以查看,https://www.douban.com/group/topic/326816957/,
+87,The Lamplighters League,燃灯者联盟,弱役女穿男凝衣服，女男比大概是五五开，有they。魔女组打分贴-10,
+88,Cassette Beasts,磁带妖怪,"dlc让女性角色暴露服装，吐舌头疑似性暗示
+",
+89,Bomb Rush Cyberfunk,放克小子,开头必须操控男的，女性可控角色穿着很暴露,
+90,Monster Prom 3: Monster Roadtrip,魔武学院3,约会模拟器，ygbt，该系列有mtf（不确定是不是本作,
+91,Moonstone Island ,月光石岛,ygbt，有长胡子的角色自称they，具体可见trans避雷合集,
+92,The Invincible,无敌号,"第一人称，太空，外星文明，女性mc，但魔女组打分贴得分不高
+",
+93,Blasphemous,神之亵渎,"男主游戏，有很多女性露出乳房的立绘，有种小兵疑似是女性，死亡动画乳房会晃动，涉及很多宗教元素，有女性自残描述
+",
+94,Beneath Oresa,奥雷萨之下,"封面女性睾丸胸
+",
+95,Fort Solis,索利斯堡,男主游戏,
+97,immortals of Aveum,不朽者传奇,"男主游戏
+",
+98,Trepang2,海参2,"男主游戏fps，官方回复主角性别不可选，默认为He。在社区里问能不能自选性别的玩家被男玩家群起攻之发小丑贴纸，充斥类似“不是tps不能看主角的皮鼓，设计成女性有什么意义”的发言
+",
+99,pacific drive,超自然车旅,"第一人称开车模拟器，主角全程不说话不透露性别
+",
+100,gravity circuit,重力回路,"男主游戏（fandom上的代词是he）
+",
+101,racine,根,"男主，demo里npc对主角的称呼是he,""he who bears the power....""
+",
+102,cavern of dreams,梦之洞穴,"男主游戏，主角是男龙fynn
+",
+103,Tales of Kenzera™: ZAU,肯泽拉传说：扎乌,"男主游戏
+",
+104,Diplomacy is Not an Option,要战便战,"疑似操控男王，npc男的多，中世纪战略游戏
+",
+105,Nomad Survival,游牧生存 ,像素肉鸽，有多个可控角色，性别无法确认但有些角色有胡子，疑似男角色居多,
+106,Terra Memoria,泰拉往事,"像素风回合制rpg，可控角色应该是宣传图上的三女三男，但女男体型差巨大，且demo里的新手教程中强制玩家操控男角色
+",
+107,Dredge,鱼帆暗涌,"男主游戏，epic送过
+",
+108,Universe for sale,出售宇宙,女主是男主女儿，安排她不明真相亲了男主，有cg特写,
+109,Behind the Frame: The Finest Scenery,倾听画语,故事本质是男的在怀念白月光,
+110,Roki,洛基 北欧怪奇之旅,父亲酗酒不管事，女主独自带吵闹弟弟，全篇救弟毫无怨言,
+111,Black book,黑书,背景介绍照搬厌女俄罗斯民俗,
+112,Murder by Numbers,数字谋杀案,全男制作组，剧情里女主被亲妈逼着和前夫和好，亲妈追男星,
+113,Jusant,退潮,男主游戏,
+114,Tales of the Neon Sea,迷雾侦探,男主游戏、逛红灯区、刻板且暴露的女性立绘、男主家中的色情海报、给女机器人穿女仆装、化眼影的雌猫、黄色笑话……太多了,
+115,Feed the cups,杯杯倒满,,
+116,Heartbeat,心跳,给像素小人画乳沟,为什么这么多像素游戏都爱画乳沟，统统枪毙！
+117,Stardew valley,星露谷物语,狂封盟友差评，害得比格一个月都不能联系客服。,和密教模拟器坐一桌，俩男制作人心眼比马眼还小。
+118,Baldur's Gate 3,博德之门3,"厌女的世界观、内含大量男同，公畜数量超标，连狗都是公的。
+用“大胸”图片做宣传，详见附图。",拉瑞安做的神界原罪系列也非常恶臭，该工作室的领导就是个老头，烂完了。
+119,Wingspan,展翅翱翔,"https://www.douban.com/group/topic/330172389/
+鸟的描述中出现众多男学者",救命……看组内友友在玩，刚买了
+120,Dragon Age: Origins,龙腾世纪：起源,"整体世界观厌女，包含大量虐女恶臭剧情，要靠女队友和男人性交生孩子达成全员存活HE结局。细节处见真章：探索某个贵族府邸路过厨房时，可以看见一个女精灵在给人类田力blowjob
+————
+补充楼上：服装非常男凝，人类贵族开局的话，在开头可以和一个女性精灵侍者调情，勾引对方上床，如果成功了这个侍者会在当晚光着身子死去。主角的妈妈可以活下去但是非要给爹殉情",恨比爱长久，滚！
+121,Dragon Age 2: Ultimate Edition,龙腾世纪2,可选性别是生软的谎言！虽然宣传片+封面都是丑男主，但在游戏内生软还是贴心地为女主设计了有别于男主的性感走姿哦~,恨比爱长久，滚！
+122,Dragon Age Inquisition,龙腾世纪：审判,男队友们丑得奇形怪状个个压抑愤怒苦，最后来整了出有苦衷的大爹剧情，招笑,恨比爱长久，滚！这部游戏性也是屎！
+123,Bugsnax,虫子快餐店,绿色男咕噜包对人称代词为“she”的女咕噜包大喊bro，还隐隐有在卖男同,
+124,Methods: The Canada Files,探案法: 加拿大档案,永不言败的拉里卡就这么被安排输给了同队从来不干事只在最后关头清醒了一会的男侦探泰兹屈居第二，最后还需要泰兹“自愿又大度”地把名额让给拉里卡她才能进最后一关,把第一名还给拉里卡……
+125,The mildew children,霉童村,剧情虐女，第一章献祭了一位女性，未知原因死了一个女巫，女主说自己比不上哥哥，后面没玩待补充,警惕俄罗斯ppt
+126,monster  prom,魔物学园,性缘至上的约会模拟器，道具有用过的棉条,
+127,Death Stranding,死亡搁浅,泄殖搁浅封我差评,我愿称之为“马桶模拟器”
+128,beholder,旁观者,糟糕的人物设计还想上价值，又是那套老登文学,试图说教的门卫模拟器
+129,heavy rain,暴雨,封我差评（原标题：嗲男文学和无聊齐飞，男凝共老登一色）男主之一和女主（都可操控）有sex场景，连sex都要打QTE，女方纯倒贴老白男,
+130,Assassin's Creed Odyssey,刺客信条：奥德赛,24h内封我差评,"本体：马可斯这头公狗动不动挟恩差使卡姐干活，死不了；死gay艾滋白男闝昌＋让卡姐送橄榄油和jb，最后还和女的结昏了，死不了；杀养父被村里人指责；密里涅身形瘦小，认为小卡姐死而小男宝没死，只找男宝；福柏小女孩被写死了
+袖箭dlc：强制让卡姐接男宝
+亚特兰dlc：美杜莎被写死（女同故事），黑帝斯的看门人都是男的，波塞冬只有男宝，很容易让大男宝的情人死亡
+现代：维多利亚被写死"
+131,It takes two,双人成行,封我22年差评,双人成行也能有孝男吗
+132,"Warhammer 40,000: Rogue Trader",战锤40k：行商浪人,从小兵到重要人物含男量超高；男队友爹爹不休。可以和其中一个男队友玩sm,
+133,Pathfinder: Wrath of the Righteous,开拓者：正义之怒,立绘男凝；男队友闝虫；剧情虐女（银龙特伦迪力福在第一章被斩首、在第五章复活需要再杀一次）；含男量超标（天使道途、巫妖道途、金龙道途、诡术道途、魔鬼道途、虫群道途，6/10道途接引人是男）；第四章有伎院；队友科米莉亚设定是直女，她的台词：“我喜欢男人在我里面的感觉。”；在剧情主线穿插女的和臭胡子老头拉拉扯扯的剧情,"为什么crpg都要加个伎院????此游超过十块就不值得，而且还要花大量心力去打，一周目需要100➕小时。
+差评发出一天就被封了????"
+134,Age of Empires 2,帝国时代2,女角色基本上都穿裙子，士兵默认为男性，男npc很多。制作组里疑似全男,
+135,Octopath Traveler,八方旅人1、2/歧路旅人,致死含男量，每个可控制女角色都要有属于她的痿大父亲，小动物都是公的，设定是屌神击败邪恶女神，并且有令人不适的剧情，舞女身份男管理职场xsr，盗贼身份女性要装伎女进行任务，并且开局服装也很暴露，而男性盗贼确是包裹严实装扮，制作组很明显的区别对待，这还能玩下去就祝你吃????愉快！,日本游戏通通枪毙！
+136,House Flipper,房产达人,强壮的男人成就/一堆男头像成就,
+137,norco,诺科,看男人撒尿成就,
+138,assassin creed ：odyssey,刺客信条奥德赛,一个成就名叫：阿xxx（古希腊的爱与美之女神）的怀抱（与其她角色共度一夜）,
+139,TOEM: A Photo Adventure,时间：摄影冒险,全男图片成就,
+140,,无限暖暖,捡丝袜道具的地方，在一个地图上看是一个屌的形状,
+141,stardew valley,星露谷物语,"软饭谷有结婚并养育两娃的成就
+",
+142,Sid Meier’s Civilization® VI,文明六,武则天的成就是：母亲节快乐，把女人和母职绑定,
+143,crusadur kings,十字军之王III,成就：至死不渝（与另一位角色结昏的成就）/兄弟连/皇帝的新装（一个裸男）/勾引十人/近亲繁育,
+144,There Is No Game: Wrong Dimension,这里没有游戏：错误的维度 ,成就：你不觉得丢脸吗（找到不雅照片）,
+145,Far Away,海沙风云,成就：草莓香味（钻女性裙底）,
+146,Spiritfarer® Farewell版,灵魂摆渡人,成就：守口如瓶（帮出轨男撒谎）,
+147,7 days to die,七日杀,技能点名称含男量过高：匕首男孩/福尔摩斯等,
+148,Dinkum,金垦小镇,男作者独立游戏，蝴蝶描述里有bro“nice bug ，bro”,
+149,Anna’s quest ,安娜的冒险,女主游戏里有男性相关成就,
+150,1 to 1 humanoid edible toys,1：1人形食玩,据说作者是一对女同情侣，但在微博对同人图夸自己游戏里的男角色曲线火辣，疑似凝男派.游戏有一条女同线两条男性恋线,
+151,Cultist Simulator＆BOOK OF HOURS,密教模拟器＆司辰之书,制作人xsr女员工,https://www.douban.com/group/topic/327929673/?_spm_id=MTg4Njc0MjM1&_i=16241192WOdhIi
+152,Stardew Valley,星露谷物语,软饭男做的软饭谷,https://www.douban.com/group/topic/330199741/?_spm_id=MTg4Njc0MjM1&_i=16244532WOdhIi
+153,Desk Paws,桌宠屋,制作人带头开黄腔,https://www.douban.com/group/topic/329054978/?_spm_id=MTc2Njk2Mjc2&_i=16234232WOdhIi
+154,ファンタジーライフｉ グルグルの竜と時をぬすむ少女,幻想生活ｉ 转圈圈的龙和偷取时间的少女,子供向软色情,https://www.douban.com/group/topic/326816753/?_spm_id=MjMwMzAwNDE5&_i=16233992WOdhIi
+155,Rusty Lake,锈湖全系列,冰箱里的女人,https://www.douban.com/group/topic/326883481/?_spm_id=Mjg4NzkzMDIz&_i=16232452WOdhIi
+156,Tiny Pasture,动物栏：桌面牧场,联名苏丹的游戏,https://www.douban.com/group/topic/326395709/?_spm_id=MjYzNDQ5MTI4&_i=16230092WOdhIi
+157,The Elder Scrolls IV: Oblivion,上古卷轴4：湮灭,你是老登,https://www.douban.com/group/topic/327323677/?_spm_id=MjI2MDMyMDIz&_i=16222512WOdhIi
+158,Yolk Heroes: A Long Tamago,勇者蛋生,厂商捂嘴,https://www.douban.com/group/topic/326695150/?_spm_id=Mjg4NzkzMDIz&_i=16197762WOdhIi
+159,Ori and the Will of the Wisps＆Ori and the Blind Fo,奥日与萤火意志＆奥日与黑暗森林,主角是男性,https://www.douban.com/group/topic/326963971/?_spm_id=Mjg3NzA4NTg2&_i=16228782WOdhIi
+160,Hollow Knight,空洞骑士,主角是男性，有男同,https://www.douban.com/group/topic/326963971/?_spm_id=Mjg3NzA4NTg2&_i=16228782WOdhIi
+161,Astro Bot,宇宙机器人,男机器人,https://www.douban.com/group/topic/326964268/?_spm_id=MjQ1MTkzNTM0&_i=16196772WOdhIi
+162,Tainted Grail: the Fall of Avalon,污痕圣杯：阿瓦隆的陨落,恶心台词,https://www.douban.com/group/topic/329044568/?_spm_id=MjAxNzU3MzQx&_i=16219742WOdhIi
+163,Pillars of Eternity,永恒之柱,恶心剧本,https://www.douban.com/group/topic/327296583/?_spm_id=MjAxNzU3MzQx&_i=16223462WOdhIi
+164,Danchi Days,团地日和,把老年痴呆当噱头，虚伪而肤浅的’’人文关怀’’,https://steamcommunity.com/profiles/76561198840411815/recommended/3312850?snr=1_5_9__402
+165,,我和未来有个约定,恋童癖游戏不必多说，看到点点举报,https://www.douban.com/group/topic/329453470/?_spm_id=Mjg4NDY3MDE0&_i=16239802WOdhIi
+166,Chants of Sennaar,巴别塔圣歌,天下大同但是男同的同(把“同伴”翻译成“兄弟”，已知简中/英/德),
+167,Feed the Cups,杯杯倒满,制作人“硬核”照顾女玩家降低游戏难度,
+168,Coffee Talk ,咖啡心语,锁男主爹味十足,
+169,Sun Haven,太阳避难所,立绘男凝,
+170,Cornucopia®,,立绘男凝,
+171,Fields of Mistria,米斯特里亚牧场,立绘男凝,
+172,Everholm,永恒岛梦旅,官方玩黑猴,
+173,428 封鎖された渋谷で,428：被封锁的涩谷,愤怒压抑苦,
+174,Kathy Rain,凯西·瑞恩 ,压不住棺材板的幽灵爷爷,
+175,goodbye valcano high,再见火山高中,画女硬说无性别,
+176,14 Minesweeper Variants,14种扫雷变体,制作人b站玩烂梗,
+177,Shadow of the Colossus,旺达与巨像,等待拯救的白裙少女,
+178,NieR:Automata,尼尔机械纪元,虐女,
+179,Momodora: Reverie Under the Moonlight,莫莫多拉：月下遐想,能攻击胸部,
+180,Eastward,风来之国,boss倒下有乳摇剧情,
+181,DolocTown,多洛可小镇,官方只要兄弟支持,
+182,OMORI,大森,男童罪犯自我脱罪的yy游戏,
+183,Tchia,奇娅,救了弟弟后被抢王位,
+184,inbento,内饭盒,太子妈的爱心便当,
+185,Volcano Princess,火山的女儿,存在性工作者结局，以及老登夺舍女角色剧情,
+186,Touhou Mystia's Izakaya,东方夜雀食堂,像素小人画出乳沟 ,"https://www.douban.com/group/topic/266827700/?_spm_id=ODI3Njc3NDY&dt_dapp=1&dt_platform=wechat_friends&_i=1634368Eju_UF1,16343746OcEnNw"
+187,monster  prom,魔物学园全系列,存在恶心成就,
+188,Ratopia,鼠托邦,主要由韩男制作，制作组指责女性玩家对于翻译的不满是挑事。明明是女性王朝游戏后续却更新越来越多的男性剧情。甚至更新了男性领导人主控。,"https://www.douban.com/group/topic/330676898/?_spm_id=Mjc1MDI0MDA5&_i=2130624-pjiHIz,2199837Rl4axPF"
+189,The House in Fata Morgana,海市蜃楼之馆,日厂+伪女主实则杰克苏侉子男主（厌恶女身崇拜屌）+贬低女性奋斗意义+从头到尾的虐女+男人背后的女人+爆衣立绘,
+190,Cotton Game,胖布丁工作室、翻车鱼工作室旗下所有游戏 ,代表作《落日山丘》《迷失岛》 ，纵容员工xsr女员工还PUA,https://www.douban.com/group/topic/327312236/?_spm_id=Mjg4NzkzMDIz&_i=16226302WOdhIi
+,,,,
+192,grindstone,勇闯宝石山,有跨性别帽子，女性印象很刻板，而男反派曾经是“阉雄”，甚至结尾还被男主救赎,gbtq的消消乐游戏
+193,pentiment,隐迹渐现,前两章是男主控，有男同亲嘴，并且有亲吻修女环节。宗教味道比较浓，男主因为事业需要结昏，特别讨厌自己的妻子。第三章是女主，身边存在大量劝昏以及让她放弃事业的言论，以及很多人撮合她与另一个男性。虽然有拒绝选项但总体观感差。,
+194,VA-11 Hall-A,赛博酒保行动,有幼女形态性爱机器人，魔女组打分为-60,
+195,coffe talk,咖啡心语,封面上的绿发女性是作者，她的一篇文章是“人和猫狗舌吻”。疑似暗示主角为男，一个外星人疯狂找女性求爱，但从来没骚扰过主角,
+196,Sizeable,变大变小,有一关叫“长发公主”，高塔里从里到外垂下长长的头发，顺着解谜步骤切断头发会有莫名其妙的凄厉女性尖叫；高跟鞋解谜；全男制作组,
+197,pentiment,隐迹渐现,有男同亲嘴情节，还有成就色诱zedena 与修女亲嘴。,
+198,two point hospital,双点医院,裸男病,
+199,100 Capitalist Cats,100 只资本家猫,成就里猫全是him,
+200,usual June ,一般朱诺,再管女角色叫dude就把你阉了,
+201,RECORD_DrowsyVortex,谧漩星记录,【魔女组打分：28】,https://www.douban.com/group/topic/321278455/
+202,House of Rules,规则之家,【魔女组打分：27】,https://www.douban.com/group/topic/316825951/
+203,Sayonara Wild Hearts,再见狂野之心,【魔女组打分：23】另有一批评帖,https://www.douban.com/group/topic/313734436/
+204,定制陪伴者,定制陪伴者,【魔女组打分：22】,https://www.douban.com/group/topic/318848258/
+205,Scars Above,伤痕累累,【魔女组打分：19】,https://www.douban.com/group/topic/313818044/
+206,MoonWhite,月白,【魔女组打分：19】,https://www.douban.com/group/topic/315580959/
+207,妇女入职怪谈,妇女入职怪谈,"【魔女组打分：19】①主楼评分基于打分细则2.0，评论区更新细则3.0评分 ②作者为反反性缘lf,不推荐rf",https://www.douban.com/group/topic/314511431/
+208,In Other Waters,孤星寂海,【魔女组打分：18】,https://www.douban.com/group/topic/302863029/
+209,Laika: Aged Through Blood,莱卡：鲜血铸就,【魔女组打分：18】①评分基于打分细则1.0 ②另有一评分为+11的打分贴 ③另有一分析思考帖,https://www.douban.com/group/topic/297886788/
+210,SEASON: A letter to the future,寄梦远方,【魔女组打分：17】,https://www.douban.com/group/topic/303999974/
+211,Open Sorcery,开放巫术,【魔女组打分：17】,https://www.douban.com/group/topic/312533999/
+212,Dungeons of Hinterberg,辛特堡传说,【魔女组打分：16】另有一短评,https://www.douban.com/group/topic/310182793/
+213,Torn Away,流离归途,【魔女组打分：16】,https://www.douban.com/group/topic/313814184/
+214,FORSPOKEN,魔咒之地,【魔女组打分：15】另有一短评,https://www.douban.com/group/topic/301633358/
+215,Wavetale,乘风破浪,【魔女组打分：14】,https://www.douban.com/group/topic/284866047/
+216,创创练习室,创创练习室,【魔女组打分：14】,https://www.douban.com/group/topic/314121014/
+217,GYLT,,【魔女组打分：14】,https://www.douban.com/group/topic/313809618/
+218,Cateau,巴黎遇猫记,【魔女组打分：13】,https://www.douban.com/group/topic/294500838/
+219,Horizon Zero Dawn,地平线 零之曙光,【魔女组打分：12】另有一短评,https://www.douban.com/group/topic/303197883/
+220,Finding Hannah,寻找汉娜,【魔女组打分：12】,https://www.douban.com/group/topic/314274714/
+221,Alba: a wildlife adventure,阿尔芭与野生动物的故事,【魔女组打分：11.5】①评分基于打分细则1.0 ②另有一评分为+8的打分贴,https://www.douban.com/group/topic/284386727/
+222,Letters - a written adventure,书信人生,【魔女组打分：11】评分基于打分细则3.0,https://www.douban.com/group/topic/320886639/
+223,The Stillness of the Wind,寂静的风,【魔女组打分：11】评分基于打分细则1.0,https://www.douban.com/group/topic/287806067/
+224,Laika: Aged Through Blood,莱卡：鲜血铸就,【魔女组打分：11】①评分基于打分细则1.0 ②另有一分析思考帖,https://www.douban.com/group/topic/298480659/
+225,The Chant,邪吟,【魔女组打分：9】,https://www.douban.com/group/topic/314230027/
+226,The Wreck,浮生千百事,【魔女组打分：9】另有一批评贴（女男性缘篇幅过长）,https://www.douban.com/group/topic/314405516/
+227,Alba: a wildlife adventure,阿尔芭与野生动物的故事,【魔女组打分：8】,https://www.douban.com/group/topic/310014861/
+228,Life is Strange,奇异人生 ,【魔女组打分：8】【链接已失效】①评分基于打分细则1.0 ②另有一评分为-6的打分贴,https://www.douban.com/group/topic/285976645/
+229,Planet of lana,拉娜之星,【魔女组打分：8】评分基于打分细则1.0,https://www.douban.com/group/topic/289628390/
+230,Little Nightmares ,小小梦魇,【魔女组打分：8】评分基于打分细则1.0,https://www.douban.com/group/topic/298822502/
+231,The Expanse: A Telltale Series,苍穹浩瀚,【魔女组打分：8】,https://www.douban.com/group/topic/314232524/
+232,Metal: Hellsinger,重金属：地狱歌手,【魔女组打分：7】未通关，打分仅供参考,https://www.douban.com/group/topic/314421326/
+233,Life is Strange: True Colors,奇异人生：本色,【魔女组打分：7】,https://www.douban.com/group/topic/313858043/
+234,Tchia,奇娅,【魔女组打分：7】,https://www.douban.com/group/topic/302798434/
+235,Gris,格莉斯的旅程,【魔女组打分：7】评分基于打分细则1.0,https://www.douban.com/group/topic/298630348/
+236,Sable,沙贝,【魔女组打分：6】评分基于打分细则1.0,https://www.douban.com/group/topic/284412150/
+237,Copycat,冒牌猫谜,【魔女组打分：6】虽然打分为正但不推荐游玩！,https://www.douban.com/group/topic/317347509/
+238,A Short Hike,短途旅行,【魔女组打分：6】①评分基于打分细则1.0 ②另有一批评,https://www.douban.com/group/topic/284312346/
+239,BLACKTAIL,女巫悲歌,【魔女组打分：6】评分基于打分细则1.0,https://www.douban.com/group/topic/285973685/
+240,Wylde Flowers,怀尔德之花,【魔女组打分：6】,https://www.douban.com/group/topic/314368096/
+241,Tales from Candleforth,烛台故事,【魔女组打分：6】有优点但雷更多,https://www.douban.com/group/topic/317979588/
+242,Kena: Bridge of Spirits,柯娜：精神之桥,【魔女组打分：5】,https://www.douban.com/group/topic/315123483/
+243,Jotun,巨人约顿,【魔女组打分：5】,https://www.douban.com/group/topic/316319630/
+244,Open Roads,阳关大道,【魔女组打分：5】,https://www.douban.com/group/topic/315210347/
+245,Scarlet Hollow,绯红山谷,【魔女组打分：5】,https://www.douban.com/group/topic/313918701/
+246,Subnautica: Below Zero,深海迷航-冰点之下,【魔女组打分：5】评分基于打分细则1.0,https://www.douban.com/group/topic/284463015/
+247,1f y0u're a gh0st ca11 me here!,幽铃热线,【魔女组打分：5】评分基于打分细则1.0,https://www.douban.com/group/topic/285443853/
+248,Resident Evil: Revelations 2,生化危机：启示录2,【魔女组打分：4】内含生化危机系列排雷，除了第2部其它都不值得玩,https://www.douban.com/group/topic/314002629/
+249,Werewolf: The Apocalypse — Purgatory,狼人启示录：炼狱,【魔女组打分：4】,https://www.douban.com/group/topic/314316430/
+250,Hauma,豪麻,【魔女组打分：4】,https://www.douban.com/group/topic/314173092/
+251,NO Straghit Roads,革命曲途 ,【魔女组打分：4】,https://www.douban.com/group/topic/313998318/
+252,The Outer Worlds,天外世界,【魔女组打分：3.5】,https://www.douban.com/group/topic/317845355/
+253,Planetka,星球防御,【魔女组打分：3】,https://www.douban.com/group/topic/314799757/
+254,Wingspan,展翅翱翔,【魔女组打分：3】,https://www.douban.com/group/topic/314765184/
+255,The Big Con,大骗局,【魔女组打分：3】,https://www.douban.com/group/topic/314758207/
+256,Risk of Rain 2,雨中冒险2,【魔女组打分：3】【链接已失效】,https://www.douban.com/group/topic/285926597/
+257,The Last Campfire,最后的篝火,【魔女组打分：3】,https://www.douban.com/group/topic/309303425/
+258,Mia and the Dragon Princess,米娅与龙公主,【魔女组打分：3】,https://www.douban.com/group/topic/313821668/
+259,GreedFall,贪婪之秋,【魔女组打分：3】评分基于打分细则1.0,https://www.douban.com/group/topic/299058017/
+260,Fling to the Finish,终极拉扯,【魔女组打分：2】另有一批评,https://www.douban.com/group/topic/314459492/
+261,Hidden … Cats / Looking For Cats / Cats Hidden in,,【魔女组打分：2】,https://www.douban.com/group/topic/316193943/
+262,Cats Hidden in Jingle Jam / Paris / Christmas,隐藏在…的猫,【魔女组打分：2】,https://www.douban.com/group/topic/314758238/
+263,20 Minutes Till Dawn,黎明前20分钟,【魔女组打分：2】评分基于打分细则1.0,https://www.douban.com/group/topic/298011913/
+264,Jusant,退潮,【魔女组打分：2】,https://www.douban.com/group/topic/308589033/
+265,Sayonara Wild Hearts,再见狂野之心,【魔女组打分：2】批评贴,https://www.douban.com/group/topic/321280458/
+266,A Plague Tale: Requiem,瘟疫传说：安魂曲,【魔女组打分：1】,https://www.douban.com/group/topic/314416326/
+267,The Spirit and the Mouse,精灵与老鼠,【魔女组打分：1】,https://www.douban.com/group/topic/316668082/
+268,Pyre,柴堆,【魔女组打分：1】评分基于打分细则1.0,https://www.douban.com/group/topic/298263355/
+269,Bloodless,无血武士,【魔女组打分：0】另有一批评,https://www.douban.com/group/topic/314751310/
+270,Potionomics,魔药经济学,【魔女组打分：0】 ,https://www.douban.com/group/topic/316722791/
+271,Disney Dreamlight Valley,迪士尼梦幻星谷,【魔女组：推荐】,https://www.douban.com/group/topic/284235874/
+272,The Outer Worlds,天外世界,【魔女组：推荐】,https://www.douban.com/group/topic/284235874/
+273,Find me,,【魔女组：推荐】,https://www.douban.com/group/topic/289250073/
+274,Dino Island - relaxing idle game,,【魔女组：推荐】,https://www.douban.com/group/topic/298035830/
+275,Assassin's Creed Odyssey,刺客信条：奥德赛,【魔女组：不推荐】根据组内其她短评，游戏内含有闝倡内容且非批判目的，改为不推荐,https://www.douban.com/group/topic/284235874/
+276,Dishonored 2,耻辱2,【魔女组：不推荐】【链接已失效】根据组内其她打分贴，游戏内含有闝倡内容且非批判目的，改为不推荐,https://www.douban.com/group/topic/286084797/
+277,Methods: The Detective Competition,探案法：侦探大赛,【魔女组：不推荐】游戏为全男主创游戏，改为不推荐,https://www.douban.com/group/topic/308134889/
+278,Methods: The Detective Competition,探案法：侦探大赛,【魔女组：不推荐】游戏为全男主创游戏，改为不推荐,https://www.douban.com/group/topic/314447196/
+279,Methods: The Canada Files,探案法：加拿大档案,【魔女组：不推荐】游戏为全男主创游戏，改为不推荐,https://www.douban.com/group/topic/299477415/
+280,Withering Rooms,枯萎的房间,【魔女组：不推荐】游戏为全男主创游戏，改为不推荐,https://www.douban.com/group/topic/313656627/
+281,TOEM: A Photo Adventure,时间：摄影冒险,【魔女组：不推荐】游戏为全男主创游戏，改为不推荐,https://www.douban.com/group/topic/284407111/
+282,我只需要一阵风……,我只需要一阵风……,【魔女组：不推荐】游戏为全男主创游戏，改为不推荐,https://www.douban.com/group/topic/300966963/
+283,Timelie,时间线,【魔女组打分：-1】,https://www.douban.com/group/topic/315844362/
+284,The Invincible,无敌号,【魔女组打分：-1】①评分基于打分细则1.0 ②另有一批评,https://www.douban.com/group/topic/298835269/
+285,Syberia: The World Before,赛伯利亚：世界之前,【魔女组打分：-1】评分基于打分细则1.0,https://www.douban.com/group/topic/301217726/
+286,The Casting of Frank Stone,弗兰克·斯通的阴影,【魔女组打分：-1】,https://www.douban.com/group/topic/314905128/
+287,Stray Gods: The Roleplaying Musical,迷失神祗,【魔女组打分：-1】,https://www.douban.com/group/topic/314313901/
+288,Hades II,哈迪斯2,【魔女组打分：-2】,https://www.douban.com/group/topic/314381577/
+289,Pocket Mirror ~ GoldenerTraum,化妆镜：黄金之梦,【魔女组打分：-2】评分基于打分细则1.0,https://www.douban.com/group/topic/289156751/
+290,Mineko's Night Market,峰子的夜市,【魔女组打分：-2】评分基于打分细则3.0,https://www.douban.com/group/topic/322462730/
+291,Whispers of a Machine,机械密语,【魔女组打分：-3】评分基于打分细则1.0,https://www.douban.com/group/topic/298018992/
+292,ポケットモンスター バイオレット,宝可梦 紫,【魔女组打分：-3】评分基于打分细则1.0,https://www.douban.com/group/topic/299791046/
+293,Super Animal Royale,超级动物大逃杀,【魔女组打分：-3】,https://www.douban.com/group/topic/314015819/
+294,South of Midnight,午夜以南,【魔女组打分：-3】评分基于打分细则3.0,https://www.douban.com/group/topic/323151161/
+295,Returnal,死亡回归,【魔女组打分：-3】评分基于打分细则3.0,https://www.douban.com/group/topic/323765084/
+296,Palia,帕里亚,【魔女组打分：-4】评分基于打分细则1.0,https://www.douban.com/group/topic/299166705/
+297,Split Fiction,双影奇境,【魔女组打分：-4】①评分基于打分细则3.0 ②另有一审判贴,https://www.douban.com/group/topic/321042548/
+298,Elypse: Available,伊莉丝：深渊洄光,【魔女组打分：-4】评分基于打分细则1.0,https://www.douban.com/group/topic/300948295/
+299,Marvel's Midnight Suns,漫威暗夜之子,【魔女组打分：-4】,https://www.douban.com/group/topic/314446740/
+300,Hellfire,业火,【魔女组打分：-5】,https://www.douban.com/group/topic/307530387/
+301,1001 Nights（demo）,1001夜,【魔女组打分：-5】,https://www.douban.com/group/topic/314117058/
+302,ベヨネッタ オリジンズ: セレッサと迷子の悪魔,蓓优妮塔 起源︰瑟蕾莎与迷失的恶魔,【魔女组打分：-5】,https://www.douban.com/group/topic/303704969/
+303,Röki,洛基：北欧怪奇之旅,【魔女组打分：-5】评分基于打分细则1.0,https://www.douban.com/group/topic/298625238/
+304,Uncharted: The Lost Legacy,神秘海域：失落的遗产,【魔女组打分：-6】评分基于打分细则3.0,https://www.douban.com/group/topic/323974271/
+305,Road 96,96号公路,【魔女组打分：-6】评分基于打分细则1.0,https://www.douban.com/group/topic/284409836/
+306,Life is Strange,奇异人生,【魔女组打分：-6】评分基于打分细则1.0,https://www.douban.com/group/topic/298405737/
+307,Assassin's Creed Chronicles: China,刺客信条编年史：中国,【魔女组打分：-6】评分基于打分细则1.0,https://www.douban.com/group/topic/299055869/
+308,Card Detective,卡牌侦探,【魔女组打分：-6】评分基于打分细则1.0,https://www.douban.com/group/topic/299307556/
+309,Hogwarts Legacy,霍格沃茨之遗,【魔女组打分：-6】,https://www.douban.com/group/topic/315099985/
+310,Heretic's Fork,异端尖叉,【魔女组打分：-7】,https://www.douban.com/group/topic/315962927/
+311,Oxenfree,奥森弗里,【魔女组打分：-7】,https://www.douban.com/group/topic/313974393/
+312,Senua's Saga: Hellblade II,地狱之刃2：塞娜的传说,【魔女组打分：-7】,https://www.douban.com/group/topic/306490393/
+313,A Musical Story,音乐故事,【魔女组打分：-7】评分基于打分细则1.0,https://www.douban.com/group/topic/284449519/
+314,Flappy Dragon,终极飞龙,【魔女组打分：-7】评分基于打分细则1.0,https://www.douban.com/group/topic/298176940/
+315,Rain World,雨世界,【魔女组打分：-7】评分基于打分细则1.0,https://www.douban.com/group/topic/298675106/
+316,Tomb Raider,古墓丽影9,【魔女组打分：-8】,https://www.douban.com/group/topic/301352711/
+317,An Arcade Full of Cats,Devcats发行的电玩街机满是猫,【魔女组打分：-8】,https://www.douban.com/group/topic/316193943/
+318,A Park Full of Cats,Devcats发行的游乐园里满是猫,【魔女组打分：-8】,https://www.douban.com/group/topic/316193943/
+319,Stray Cats in Cozy Town,Devcats发行的悠然镇的流浪猫,【魔女组打分：-8】,https://www.douban.com/group/topic/316193943/
+320,The Walking Dead: The Final Season,行尸走肉：最终季,【魔女组打分：-8】,https://www.douban.com/group/topic/314269189/
+321,ファイアーエムブレム 風花雪月,火焰之纹章 风花雪月,【魔女组打分：-8】评分基于打分细则1.0 ,https://www.douban.com/group/topic/298392860/
+322,Cats and Seek,Noobzilla发行的《Cats and Seek》系列,【魔女组打分：-9】,https://www.douban.com/group/topic/316193943/
+323,The Last of Us Part II,最后生还者2,【魔女组打分：-9】,https://www.douban.com/group/topic/315990146/
+324,FIREWATCH,看火人,【魔女组打分：-9】评分基于打分细则1.0,https://www.douban.com/group/topic/284460148/
+325,It Takes Two,双人成行,【魔女组打分：-9】① 评分基于打分细则1.0 ②另有一评分为-46的打分贴,https://www.douban.com/group/topic/284554415/
+326,Monster Sanctuary,怪物圣所,【魔女组打分：-9】评分基于打分细则1.0,https://www.douban.com/group/topic/300934474/
+327,The Lamplighters League,燃灯者联盟,【魔女组打分：-10】,https://www.douban.com/group/topic/314365349/
+328,Whispering Willows,灵界女孩,【魔女组打分：-10】评分基于打分细则1.0,https://www.douban.com/group/topic/289898348/
+329,The Park,游乐园,【魔女组打分：-10】评分基于打分细则1.0,https://www.douban.com/group/topic/298669777/
+330,Tales from the Borderlands,无主之地传说,【魔女组打分：-10】,https://www.douban.com/group/topic/313981855/
+331,Trine 4: The Nightmare Prince,三位一体4：梦魇王子,【魔女组打分：-10】,https://www.douban.com/group/topic/314458475/
+332,Glass Masquerade,玻璃假面,【魔女组打分：-11】,https://www.douban.com/group/topic/315469636/
+333,100 Capitalist/Aliens/Asian/Dino... Cats,100 Cozy Game发行的100...Cats系列,【魔女组打分：-11】,https://www.douban.com/group/topic/316193943/
+334,The Dark Pictures: The Devil in Me,黑相集：心中魔,【魔女组打分：-11】,https://www.douban.com/group/topic/313824816/
+335,Extra Coin,再来一次,【魔女组打分：-12】,https://www.douban.com/group/topic/316302965/
+336,Asterigos: Curse of the Stars,失落迷城：群星的诅咒,【魔女组打分：-13】,https://www.douban.com/group/topic/313958608/
+337,Detroit: Become Human,底特律：化身为人,【魔女组打分：-13】评分基于打分细则1.0,https://www.douban.com/group/topic/299364073/
+338,Cyberpunk 2077,赛博朋克 2077,【魔女组打分：-14】评分基于打分细则1.0,https://www.douban.com/group/topic/298878698/
+339,桃源深处有人家,桃源深处有人家,【魔女组打分：-15】评分基于打分细则1.0,https://www.douban.com/group/topic/288166765/
+340,The Operator,接线疑云,【魔女组打分：-15】,https://www.douban.com/group/topic/315291692/
+341,I Was a Teenage Exocolonist,少年异星殖民者,【魔女组打分：-15】,https://www.douban.com/group/topic/314363877/
+342,The Walking Dead: Season Two,行尸走肉：第二季,【魔女组打分：-15】,https://www.douban.com/group/topic/314269189/
+343,Call of the Sea,海之呼唤,【魔女组打分：-16】,https://www.douban.com/group/topic/314989028/
+344,Balatro,小丑牌,【魔女组打分：-16】,https://www.douban.com/group/topic/314818229/
+345,The Dark Pictures: Man Of Medan,黑相集：棉兰号,【魔女组打分：-18】,https://www.douban.com/group/topic/313824816/
+346,Invincible Presents: Atom Eve,无敌少侠：原子女侠伊芙,【魔女组打分：-18】,https://www.douban.com/group/topic/314454953/
+347,骰子元素师,骰子元素师,【魔女组打分：-19】,https://www.douban.com/group/topic/314449742/
+348,Road 96: Mile 0,九十六号公路：0 英里,【魔女组打分：-19】,https://www.douban.com/group/topic/314046430/
+349,Beyond: Two Souls,超凡双生,【魔女组打分：-19】,https://www.douban.com/group/topic/313999810/
+350,The Excavation of Hob's Barrow,霍布古墓发掘记,【魔女组打分：-19】另有一批评,https://www.douban.com/group/topic/313645471/
+351,New Tales from the Borderlands,新无主之地传说,【魔女组打分：-20】,https://www.douban.com/group/topic/313981855/
+352,Devotion,还愿,【魔女组打分：-21】,https://www.douban.com/group/topic/301523502/
+353,Monster Hunter Wilds,怪物猎人：荒野,【魔女组打分：-21】评分基于打分细则3.0,https://www.douban.com/group/topic/322155502/
+354,Fatal Twelve,致命十二人,【魔女组打分：-22】,https://www.douban.com/group/topic/315420032/
+355,Pixel Cafe,像素咖啡馆,【魔女组打分：-22】,https://www.douban.com/group/topic/316437892/
+356,Black Book,黑书,【魔女组打分：-22】,https://www.douban.com/group/topic/315797053/
+357,Splatoon / スプラトゥーン,喷射战士 / 斯普拉遁系列,【魔女组打分：-22】,https://www.douban.com/group/topic/316028240/
+358,Vampire: The Masquerade - Coteries of New York,吸血鬼：避世血族 - 纽约同僚,【魔女组打分：-23】,https://www.douban.com/group/topic/315286529/
+359,MONSTER HUNTER RISE,怪物猎人：崛起,【魔女组打分：-24】评分基于打分细则3.0,https://www.douban.com/group/topic/322316781/
+360,星のカービィ,星之卡比,【魔女组打分：-25】,https://www.douban.com/group/topic/301785097/
+361,God of War: Ragnarok,战神：诸神黄昏,【魔女组打分：-27】,https://www.douban.com/group/topic/301257216/
+362,Sifu,师父,【魔女组打分：-28】,https://www.douban.com/group/topic/316532290/
+363,Unavowed,秘密结社,【魔女组打分：-30】另有两个批评,https://www.douban.com/group/topic/314530208/
+364,Undertale,传说之下,【魔女组打分：-31】,https://www.douban.com/group/topic/315501233/
+365,Night of the Full Moon,月圆之夜,【魔女组打分：-32】评分基于打分细则3.0,https://www.douban.com/group/topic/321454182/
+366,The Dark Pictures: House of Ashes,黑相集：灰冥界,【魔女组打分：-32】,https://www.douban.com/group/topic/313824816/
+367,The Dark Pictures Anthology: Little Hope,黑相集：稀望镇,【魔女组打分：-32】,https://www.douban.com/group/topic/313824816/
+368,Prey,掠食,【魔女组打分：-32】,https://www.douban.com/group/topic/316990963/
+369,Sekiro: Shadows Die Twice,只狼：影逝二度,【魔女组打分：-36】,https://www.douban.com/group/topic/315544156/
+370,The Quarry,采石场惊魂,【魔女组打分：-38】,https://www.douban.com/group/topic/313824816/
+371,Hades,哈迪斯,【魔女组打分：-40】,https://www.douban.com/group/topic/315404554/
+372,Victoria 3,维多利亚3,【魔女组打分：-44】评分基于打分细则3.0,https://www.douban.com/group/topic/322447847/
+373,It Takes Two,双人成行 ,【魔女组打分：-46】,https://www.douban.com/group/topic/315884786/
+374,inbento,内饭盒,【魔女组打分：-46】【链接已失效】评分基于打分细则3.0,https://www.douban.com/group/topic/323359881/
+375,Hollow Knight,空洞骑士,【魔女组打分：-51】另有一批评贴,https://www.douban.com/group/topic/315528024/
+376,Outlast ,逃生,【魔女组打分：-51】,https://www.douban.com/group/topic/315531617/
+377,INDIKA,印蒂卡,【魔女组打分：-52】①评分基于打分细则3.0 ②另有一批评,https://www.douban.com/group/topic/321130109/
+378,Railbound,轨道连结,【魔女组打分：-52】【链接已失效】评分基于打分细则3.0,https://www.douban.com/group/topic/323359881/
+379,Dishonored 2,耻辱2,【魔女组打分：-52】评分基于打分细则3.0,https://www.douban.com/group/topic/323592938/
+380,Don't Starve,饥荒,【魔女组打分：-53】评分基于打分细则3.0,https://www.douban.com/group/topic/323436060/
+381,Do Not Feed the Monkeys,不要喂食猴子,【魔女组打分：-54】,https://www.douban.com/group/topic/315484631/
+382,Potion Craft: Alchemist Simulator,药剂工艺：炼金模拟器,【魔女组打分：-56】,https://www.douban.com/group/topic/315623429/
+383,Dead by Daylight,黎明杀机,【魔女组打分：-58】,https://www.douban.com/group/topic/316047971/
+384,Disco Elysium,极乐迪斯科,【魔女组打分：-60】,https://www.douban.com/group/topic/315524500/
+385,VA-11 Hall-A: Cyberpunk Bartender Action,瓦尔哈拉：赛博朋克酒保行动,【魔女组打分：-60】,https://www.douban.com/group/topic/316882789/
+386,Outlast 2,逃生2,【魔女组打分：-61】,https://www.douban.com/group/topic/315531617/
+387,Assassin's Creed Valhalla,刺客信条：英灵殿,【魔女组打分：-64】评分基于打分细则3.0,https://www.douban.com/group/topic/320343795/
+388,LISA:The Painful ,丽萨：痛苦之旅,【魔女组打分：-69】,https://www.douban.com/group/topic/315460030/
+389,Persona 5 Royal,女神异闻录5 皇家版,【魔女组打分：-70】,https://www.douban.com/group/topic/314900287/
+390,Rusty Lake / Cube Escape Collection,锈湖系列 / 方块逃脱合集 ,【魔女组打分：-71】,https://www.douban.com/group/topic/315568733/
+391,The Binding of Isaac: Rebirth,以撒的结合：重生,【魔女组打分：-71】,https://www.douban.com/group/topic/306970585/
+392,Laika: Aged Through Blood,莱卡：鲜血铸就,,https://www.douban.com/group/topic/299861565/
+393,Beyond Blue,深海超越,,https://www.douban.com/group/topic/286878091/
+394,Dragon Age,龙腾世纪系列,,https://www.douban.com/group/topic/290419387/
+395,Apex Legends,Apex英雄,【链接已失效】另有二批评短评,https://www.douban.com/group/topic/288214042/
+396,Frostpunk,冰汽时代,另有一批评,https://www.douban.com/group/topic/294334163/
+397,WITCH ON THE HOLY NIGHT,魔法使之夜,,https://www.douban.com/group/topic/299174816/
+398,Citizen Sleeper,深空梦里人,另有一批评,https://www.douban.com/group/topic/302904528/
+399,For Honor,荣耀战魂,,https://www.douban.com/group/topic/316062109/
+400,Picross Touch,数织触摸,【链接已失效】,https://www.douban.com/group/topic/321110669/
+401,Crusader Kings III,十字军之王3,,https://www.douban.com/group/topic/285794723/
+402,Elden Ring,艾尔登法环,,https://www.douban.com/group/topic/286044092/
+403,Undertale,传说之下,另有一评分为-33的打分贴,https://www.douban.com/group/topic/288443601/
+404,Alice: Madness Returns,爱丽丝：疯狂回归,【链接已失效】另有一批评短评,https://www.douban.com/group/topic/305496027/
+405,Hogwarts Legacy,霍格沃茨之遗,【链接已失效】另有一评分为-6的打分贴,https://www.douban.com/group/topic/284204107/
+406,Chicory: A Colorful Tale,神笔狗良,内含其它影视剧与游戏的简中翻译吐槽,https://www.douban.com/group/topic/300909521/
+407,ファイアーエムブレム 風花雪月,火焰之纹章 风花雪月,另有一评分为-8的打分贴,https://www.douban.com/group/topic/305877813/
+408,Griftlands,欺诈之地,,https://www.douban.com/group/topic/306619135/
+409,Prey,掠食,另有一评分为-32的打分贴,https://www.douban.com/group/topic/315445883/
+410,Choice of Games,COG系列,,https://www.douban.com/group/topic/315487249/
+411,Choice of Games Top Rated,Choice of Games Top Rated 捆绑包,,https://www.douban.com/group/topic/323750322/
+412,CHILDREN OF SATURN,,,https://www.douban.com/group/topic/316695428/
+413,Sun Haven,太阳港,,https://www.douban.com/group/topic/317818425/
+414,Sally Face,俏皮脸,,https://www.douban.com/group/topic/319302861/
+415,Reignbreaker,破御者,建议只玩DEMO，基本能体验到正式版的80%了,https://www.douban.com/group/topic/319529167/
+416,Baldur's Gate 3,博德之门3,,https://www.douban.com/group/topic/319568469/
+417,Deliver Us The Moon,飞向月球,,https://www.douban.com/group/topic/286531558/
+418,Deliver Us Mars,火星孤征,批评,https://www.douban.com/group/topic/322224373/
+419,Spiritfarer,灵魂摆渡人,,https://www.douban.com/group/topic/324921889/
+420,Spiritfarer,灵魂摆渡人,批评,https://www.douban.com/group/topic/324925996/
+421,Rollerdrome,酷极轮滑,,https://www.douban.com/group/topic/324921310/
+422,The Legend of Zelda: Echoes of Wisdom,塞尔达传说：智慧的再现,,https://www.douban.com/group/topic/324923059/
+423,Metroid Dread,密特罗德 生存恐惧,,https://www.douban.com/group/topic/324924679/
+424,Unavowed,秘密结社,批评，另有一打分贴,https://www.douban.com/group/topic/325185537
+425,The Wreck,浮生千百事,,https://www.douban.com/group/topic/285634701/
+426,Technobabylon,科技巴比伦,另有一批评,https://www.douban.com/group/topic/303818725/
+427,Avowed,宣誓,,https://www.douban.com/group/topic/319559506/
+428,Split Fiction,双影奇境,另有一评分为-4的打分贴,https://www.douban.com/group/topic/321049317/
+429,Shardlight,碎片之光,   死爹的好女儿；男配爆炸性的多+重要；帮助重要女配革命军首领的结局被描述为坏结局，真·好结局必须是主角把她也杀了,https://www.douban.com/group/topic/303818725/
+430,Horizon Forbidden West,地平线 西之绝境,"   脑算了一下,不加最后的印象分也是12（2.0细则）",
+431,The Outlast Trials,逃生：试炼,   性化修女,
+432,The Evil Within,恶灵附身系列,   虐女+大男主老白男拯救世界,
+433,Alan Wake,心灵杀手系列,   老白男故事，alan老婆经典冰箱里的女友，苦难沦为塑造白男的素材,
+434,港詭實錄,港诡实录,聚焦虐女男凝,
+435,Home Sweet Home,甜蜜之家,吊子绿帽臆想症发作,
+436,零~zero~,零系列,   无限男凝得到宅男哥认可“好涩和胆小一定要治好一个”,
+437,Silent Hill,寂静岭系列,   冰箱里的女友赛博“吾妻之死”,
+438,The Coma,昏迷系列,   男凝虐女,
+439,The School : White Day,恐怖学校 : 白色情人节,   男凝虐女,
+440,Dead by Daylight,黎明杀机,   真人mtf配音mtf角色+性化女角色+超雄蝻玩家+血腥虐女场景,
+441,Coffee Talk,咖啡心语,见主楼，省流版：男性生殖崇拜,
+442,The Walking Dead: Michonne,行尸走肉：米琼恩,   女主的成长是从对女儿的羁绊执念中走出来，开头一船伙伴都是男的，剧情里最重要的另一位女配有很好的故事线和成长待遇,
+443,Life is Strange: Before The Storm,奇异人生：暴风前夕,   鼓励玩家讨好超雄继父，道德绑架让主角解救未来会害死自己朋友的校霸小登,
+444,Shadow of the Tomb Raider,古墓丽影：暗影,见主楼，省流版：探索雨林古迹的冒险游戏，满地支线还全是帮男的跑腿、男队友甩不掉、性缘人play、帮点子妈帮扶夭祖、5分钟回忆一次跌,
+445,Apex Legends,Apex英雄,   卡特莉丝是跨子，mtf,
+446,Transistor,晶体管,   女主角，缺点是总是有个男画外音唠唠叨叨，最后主角居然还为爱自杀了,
+447,Transistor,晶体管,   一打开穿着超短裙丝袜战斗,
+448,Oxygen Not Included,缺氧,   游戏故事起源公司两个主创都是女科学家。dlc里有个隐士博士是老年男复制人形象，看着邋遢但自带极高属性和魅力buff…,
+449,DRAGON QUEST BUILDERS 2,勇者斗恶龙 创世小玩家2 ,   强女只被期待穿上兔女郎装陪酒，男npc为了偷窥提倡建立透明淋浴室,
+450,Sticky Business,小小贴纸铺,   男同有个男儿，还有跨性别旗,
+451,Assassin's Creed Odyssey,刺客信条：奥德赛,   亚特兰蒂斯dlc依旧女少男多，给哈迪斯这个拐卖犯洗白，波塞冬和牠的十个男儿统治亚特兰蒂斯，污名化女性情谊,
+452,Baldur's Gate 3,博德之门3,   UI超级进化版的神界原罪2，连开局剧情都一模一样，战斗系统也差不多，有神原2+dnd跑团经验直接无缝上手。,
+453,DustBorn(demo),尘路之旅,   demo半小时含女量高，lgbtq含量高，女主所在的主角团大概三女三男/两女两男配置，其中有一个应该是女跨男,
+454,Horizon Zero Dawn,地平线 零之曙光,   男的是真的多，主线任务有一种强虜狠狠为男权社会拉磨感，游戏主线和DLC都有女性牺牲、男性受益的剧情,
+455,Lords of the Fallen,堕落之主,   可选女主类魂，画面美术很好，男性角色很多，但是遇到的前3个BOSS倒都是女性。另有一批评短评,
+456,Black Skylands,云端掠影,   造词fathership（中文“父舰”）,
+457,Pendragon Rising,王侯崛起,   文本估计是搞一键换头式端水。选择女主的时候妈妈是王，但妹妹是嫡出“我”是私生女庶长子，嗲/子/文学生硬性转,
+458,[Bober Bros] The Hole,,   大篇幅的虐女且加害者无惩罚的内容后，居然在结尾有一段（由女童声念出）虚伪到极致的字幕,
+459,Withering Rooms,枯萎的房间,   前期跟坐牢似的，不潜行不能玩，动作硬直得像法棍一样。,
+460,Alone in the Dark,鬼屋魔影,   可选女主，故事不算出彩，主线是姪女救叔，女女连接很少，出场女性角色全穿裙子。射击手感一般，动作有点僵硬。,
+461,Assassin's Creed Odyssey,刺客信条：奥德赛,   需要操控主角从弔子雕像裆部和女神雕像胸部爬过去,
+462,Persona 4 Golden,女神异闻录4 黄金版,   吉祥物男配音，卡痰音，感觉有混杂烟酒口/臭/味。角色也是批皮猥/琐/田/力，让未成年的高中生女性角色穿泳装搞选美比赛,
+463,Ib,Ib 恐怖美术馆,   链童擦边+nue女,
+464,Yume Nikki,梦日记,   谜语人式精神nue女,
+465,Mad Father,狂父,   nue女+肢/解元素,
+466,Ori and the Blind Forest,奥日与黑暗森林,   开头剧情熏人，满屏光污染。搜了下是俩v创立工作室，手感滞后黏腻剧情一坨,
+467,Control,控制,   男配高光比女配多，主角初始驱动力是救弟弟。,
+468,Metroid Dread,密特罗德 生存恐惧,   2D地图设计天花板，操作难度比较高但有简单模式；每次死亡都有爆甲动画，最终boss是天降大爹，马上就死但恶心人,
+469,The Ghost and the Golem,,   选性别时反性别刻板印象会被判定为侉子,
+470,Control,控制,   跟心灵杀手联动的DLC黢黑场景实在太多了，有些暗到一片纯黑,
+471,Purrgatory,喵的炼狱,   “百合”其中之一是mtf，中文翻译大量私货和辱女词出没。两个弔子发现朵花觉得长得像自己的生殖器，追着让主角赞同,
+472,Star Wars Outlaws,星球大战：亡命之徒,   男npc太多了，看起来像女性的角色好像是个they（记得之前隔壁实况贴里有人这么说）,
+473,Beyond Blue,深海超越,   没记错的话除了全程引导男声吊吊赖赖很烦之外没有其它雷点,
+474,Grimoire Groves,魔导森林,   画风像简笔画，沾点肉鸽的魔法战斗游戏，制作组3女一㽖，主角团全女,
+475,多洛可小镇,多洛可小镇,   小黑盒官号把女主角分发给松弟萌当老婆+“是兄弟就来捡垃圾种田”,
+476,Isle of Jura,侏罗岛,   简陋，地图和人物贴图挺僵，支持手柄但钓鱼必须用鼠标操作，钓鱼小游戏是星露谷同款。,
+477,Dungeons of Hinterberg,辛特堡传说,   更新添加男主控dlc和“猫女”服装,
+478,Apex Legends,Apex英雄,   逼女角色卖肉来骗钱，变幻威望皮一阶段是比基尼，罗拔活动皮特意展示内裤,
+479,Horizon Forbidden West,地平线 西之绝境,   女性数量有增加但男性数量没怎么减少，大本营帮忙的npc男女数量勉强平衡，含女量上升体感确实还是好很多,
+480,Stardew Valley,星露谷物语,   登味，各种拉配对、找村长内裤撞破私情，连史莱姆都有性别之分，公的史莱姆血量伤害都更高，还会交配；作者吸血女友,
+481,Self-Comb Women: Home Left Behind,自梳：消逝的姑婆屋 ,   游戏画面非常不适，像恐怖游戏，团队应该也是不少蛆，甚至不敢回应评论区团队性别比问题,
+482,Steel Seed,钢铁之种,   经典无母有父,
+483,Lords of the Fallen,堕落之主,   最近出了2.0版本，更新预告说“将用更有吸引力的面部选项和更传统的女性体型。来让女性身体类型的女性化特征更加明显”,
+484,Meadow,草原,   不能说话的小动物互帮互助又或独自流浪看风景找果子，一段奇妙的体验,
+485,Stray,迷失,   猫咪模拟器× 给伄子兄弟父子等等莮角色拉磨的驴子模拟器√,
+486,Chants of Sennaar,巴别塔圣歌,   用词男权叙事，中翻比英翻更去性别,
+487,Celeste,蔚蓝,   mtf侉子主角但死不要脸商店标女性主角+制作人含mtf,
+488,Floppy Knights,软盘骑士,   女主角（设定是高智商发明家），女角色很多， 适合摸鱼玩,
+489,The Witness,见证者,   晕3d慎重,
+490,Carto,无尽旅图,①   画风可爱，女宝+姥姥+好朋友，交易卡女男比差 ②另有一批评,
+491,Purrgatory,喵的炼狱,①   2d文字冒险，女性角色没有第二性标记，游戏优化较差 ②另有一批评短评,
+492,Chill Pulse,心流小筑,   跟赛博朋克酒保行动联动过；最近出了个新哪吒皮肤感觉在蹭尿童热度；圣诞节出的皮肤让女角色光膀子🏳️,
+493,Jumping Jazz Cats (demo),奇喵派对,   老蝻配音，第二性化母猫，不推荐,
+494,Unavowed,秘密结社,①省流版：玩到一半塞公人入队，强制玩家欣赏公人的祖孙三代情 ②另有一评分-30的打分帖,
+495,Ooblets,欧布精灵,   精灵＆卡牌＆种田游戏，没有太大雷点，体感女比男多一点，职业上也较均衡,
+496,Oxygen Not Included,缺氧,   女宝建设世界，女比男多了下睫毛，头发很刻板,
+497,Don't Starve/Don't Starve Together,饥荒/饥荒联机版,   免不了刻板，但年龄段丰富,
+498,Paper Perjury（demo）,逆转侦探,   女主性格日式“傲娇”，绑定老💡侦探，互动像职场老油条忽悠菜鸟白干活，不推荐现在入,
+499,Jack Move,移动杰克,   女主救蝶+被蝻包围,
+500,Children of the Sun,太阳之子,   算好玩的女主射击但开头有女主伸舌头舔枪的擦边动画+蝻路人撒尿场景,
+501,The Red Lantern,红灯笼,   女主和狗狗的故事，小而美的游戏，全事件收集成就是坏的,
+502,Immortals Fenyx Rising,渡神纪 芬尼斯崛起,   希腊神话背景，老套的妹妹救哥哥，自捏女主可寸头但太瘦弱，无性缘关系,
+503,Lost and Found Co.,失物招领有限公司,   一堆兔女郎给蝻陪酒+主角一女（但被叫女神）一男（动物鸭大变活蝻）,
+504,Dishonored 2,耻辱2,   油腻恶心的男主，但下线很早，难度跟1相比有提升,
+505,Gotham Knights,哥谭骑士,   点子塑造拉满+女主被蝻包围+服装蝻凝,
+506,Symphony of War: The Nephilim Saga,战争交响曲：尼菲林传奇,   可自选女但一堆蝻凝立绘,
+507,Digimon Story Cyber Sleuth,数码宝贝故事：赛博侦探,   故事分纯男主&自选性别，自选性别线服装选女超短裙，选蝻舒适长裤,
+508,Cloudpunk,云朋克,   像素风，女主快递员开空中飞车，出场的点子角色很多，粗略估分-10左右,
+509,Loddlenaut,劳德诺特,   海洋捡垃圾小游戏，主角性别未提，团队是女领导，但引导是田力,
+510,Penny Larceny: Gig Economy Supervillain,佩妮大盗：零工经济超级恶棍,   剧情“很漫画”（非褒义），游戏氛围有点像魔物学院，女性服装male gaze度很高,
+511,Margo,,   免费游戏，画风独特故事可爱，无中字，狗狗代词是he，剧情可能会出现♂,
+512,Aimlabs,目标实验室,   训练射击来提升准确率的游戏,
+513,Mitoza,种,   通过不断选择，探索一粒种子最后能变成什么样子，想象力丰富的魔性小游戏,
+514,Pixel Cafe,像素咖啡馆,①   demo诈骗，正式版含蝻量惊人应登尽登②另有一评分为-22的打分贴,
+515,魔女の家,魔女之家,   蝻凝，极度虐女,
+516,Never Alone (Kisima Ingitchuna),永不孤单,   老登配音+后期与女主亲密无间的狐狸会变成楠堡,
+517,芝加哥计划,芝加哥计划,   介绍说是独立女制作人+女主角，实际打开浓郁的iv气息熏得两眼一黑,
+518,DARK SOULS,黑暗之魂,   总分-33，虐女+v臭+舔老登,
+519,あつまれ どうぶつの森,集合啦！动物森友会,   不好玩，引导差，资源刷新频率极慢。尊卑等级分明，男动物太多,
+520,Divinity: Original Sin II,神界：原罪2,   虐女+蝻凝+雌竞,
+521,The Longing Mobile,漫长等待,   以为是无性别探索游戏，进去一看国王是胡子男，小人叫石头兄弟,
+522,Life is Strange,奇异人生,   打分-19，虐女+贞洁羞辱+女同双飞烂梗+偷窥蝻凝+雌竞霸凌+蝻高光,
+523,Dead In Vinland,死在文兰,   回合制战斗生存游戏北欧神话+在打分前不太推荐,
+524,Baldur's Gate 3,博德之门3,   含跨，西幻厌女世界观，不建议对dnd或跑团不感兴趣的姐妹游玩,
+525,PRIM,,   给主角造父的剧情过于离谱,
+526,Rain on Your Parade,整蛊白云,   开头爷给孙男讲睡前故事，长辈胡子老💡且路人npc男居多，女性衣着第二性问题严重,
+527,missed messages.,错过的信息,   开局就出现挺跨粉蓝旗，主角是女同但挺跨还是mtf只能自由心证,
+528,Fallout 4,辐射4,"   星空和天外世界可尝试，有一定女性比例，但整体较男,对辐射感兴趣建议尝试辐射76",
+529,Steelrising,钢之崛起,   主角性别未知，配音固定为女，穿高跟打架，手感不适，男的太多,
+530,Hellblade: Senua’s Sacrifice,地狱之刃：塞娜的献祭,   拯救点子恋人，虐女演出，主角战败会发出长达15s的痛苦惨叫+猎奇的脸部“死相”特写,
+531,Root,茂林源记,   角色雄味爆棚，唯一一个第三人称单数代词用的he,
+532,Little Witch in the Woods,林中小女巫,   开头没讲两句就开始连着好几句男卫生间，列车可对话的也只有“调酒师叔叔”和性别不明的花店店主、列车员,
+533,DICEOMANCER,骰子浪游者,   翻译zng臭味溢出，作画还特地突出了🐷的下/体。,
+534,Alice: Madness Returns,爱丽丝：疯狂回归,   物化女性场景，台词鼓吹卖淫自由,
+535,Star Trek: Resurgence (demo),星际迷航：复兴,   ①汉化糟糕 ②女男双主角但女主出场只和男角色互动，含男量高，选男主有恋爱线 ,
+536,My Little Pony: A Maretime Bay Adventure,小马宝莉：玛泰湾冒险,   过于子供向，不是ip粉没必要玩；主要是友情故事，但有个男马戏份重,
+537,Afterparty,余兴派对,   双主角一女一男是朋友，解密聊天小游戏。男主嗲嗲不休，打分估计是负分，不推荐,
+538,Bug & Seek,,   开发者似乎一女一男，主角性别未提，形象可选，一npc对虫子的称呼是him，不太推荐买,
+539,Caravan SandWitch (demo),漫漫长路 沙巫之旅,   ygbt严重明确女性的角色高裸露度，2岁婴儿也要用them称呼。主线女主找姐但demo结尾找碟,
+540,Dishonored,耻辱,   固定男主登味厌女游戏，女皇年轻就生女且故事开头就被刺杀，蝻角色偷窥女人洗澡+去伎院,
+541,Dishonored 2,耻辱2,   设定虐女，妈妈的心脏被做成机械心脏道具+女性盟友身残；含侉子、男同、隐形的同妻；女男比不超过3:7,
+542,Dishonored: Death of the Outsider,耻辱：界外魔之死,   女性主角但纯工具人，为完成师傅（男）的遗愿去杀世界之神（男）；有女巫们被全男督军虐杀剧情,
+543,Strange Horticulture,奇异园艺,   虜濒死，点子买了让虜身体活下来但灵魂死亡的药，玩家不能拒绝；大结局其中一条线是父女相认,
+544,Pillars of Eternity,永恒之柱,   女性职业由出身决定但♂可以做任何事。含男量高+辱女性化女体。女人生下没有灵魂的孩子会被杀,
+545,Phoenotopia: Awakening,不死鸟传说：觉醒 / 不死鸟之翼,   开头cg里面有性化的女性怪物，主角立绘身材过于纤细，大部分女性角色太刻板印象,
+546,Assassin's Creed Valhalla,刺客信条：英灵殿,   登味剧情+假性可选女主；各种各样的男，女角色苍白+边缘化；分数<-20；优点女主可寸头摸猫狗有肉鸽,
+547,Assassin's Creed Odyssey,刺客信条：奥德赛,   主线剧情让主角进伎院找人，还会展现很多♂npc随处撒尿动画（伴随黄色水柱🤮）,
+548,Far Cry 6,孤岛惊魂6,   假性可选女主，被阳刚味劝退,
+549,Avowed,宣誓,   其中一个女性同伴会一路讲黄段子；和永恒之柱一个世界观，不用考虑了😅,
+550,誰ソ彼ホテル Re:newal / TASOKARE HOTEL Re:newal,黄昏旅馆 / 黄昏旅店,   疟女链童擦边剧情，专砂女性的超雄戏份占比很高；女主会像批皮cgg一样骚扰女性角色卖百合“福利”,
+551,The Elder Scrolls V: Skyrim,上古卷轴5：天际,   -59分，全方位告诉你女人是第二性；男角色塑造扣满，女人充当背景板+桌上的菜；支线一堆厌女任务,
+552,Assassin's Creed Odyssey,刺客信条：奥德赛,   主角少有的女性朋友死得非常没有必要，虐女+强行加悲剧色彩+dlc制造剧情冲突+联动再拉出来吃热度，真的好贱😅,
+553,Lost Records: Bloom & Rage,失落的记录：绽放与愤怒,   主角团反击手段最多还嘴；有一些性化辱女画面/台词；主角团互称dude；叙事特别慢；总之不太推荐,
+554,Enter the Gungeon,挺进地牢,   不推荐。初始角色女男对半但后期可解锁的全是♂，女npc很少；有武器名叫xx先生；局内装饰挂画很恶心,
+555,RunOut - Hothead Paws (demo),,   动物类大逃杀，有第二性化的动物，不推荐,
+556,Bang Bang Barrage (demo),枪豆人,   合作肉鸽游戏，国产，工作室支持嘿🐒，不推荐,
+557,Relic Guardian (demo),遗物守护者,   像素塔防游戏，女主，女角色多。但国产，女角色露骨，像素也要露乳沟🤮，不推荐,
+558,Fields of Mistria,米斯特利亚牧场,   女主角性化很严重，夏季女角色都是卖肉泳衣,
+559,Immortals Fenyx Rising,渡神纪 芬尼斯崛起,   截至目前玩的俩小时，除了自选的主角是女，从旁白到NPC全是男的，主角还一直念叨要救哥，受不了……,
+560,Harmony's Odyssey,小魔女星拼乐,   女男比极差，女男体型差异巨大，且npc都是障碍怪打完全留在地图里了。小魔女也有幼化弱化魔女的慊疑，不推荐,
+561,Deliver Us Mars,火星孤征,   找跌作。姐姐一手带大女主，女主却对十几年没见的跌念念不忘；建模突兀，大人脸长小孩身体上；立绘白瘦幼,
+562,Mass Effect,质量效应,   男凝，女队友的衣服能把股沟勾勒得清晰可见。有主角观看女性跳钢管舞的固定剧情，几乎所有宣传材料都是男主控。,
+563,Marie’s Room,玛丽的房间,   青春伤痛文学。性缘虜和友缘虜。,
+564,Cassette Beasts,磁带妖怪,   女npc多；主角性别的第一选项是非二元；dlc有男凝女角色；大量古今中外老💡哲学家npc，宝可梦和女性道馆主第二性化,
+565,Haste,救命！怎么又塌了!,   欧美二刺猿，女主的衣服没什么大问题但有女角色穿超短裙😇女男角色存在巨大体型差,
+566,Little Misfortune,小厄运,   带儿童涩情/擦/边/，剧情也是疟女向的，酗酒的妈和家暴超🐻爹，最后结局也是悲剧,
+567,Dragon Age II,龙腾世纪II,   主角性别可选，但后续作品官方默认前作是男主控,
+568,Dragon Age Inquisition,龙腾世纪：审判,   服装有性别锁，或者该说有两个女性队友穿上变男凝，男队友体型大多是女队友的1.5倍；女队友少；含低俗笑话与虐女剧情,
+569,Terraria,泰拉瑞亚,   打分肯定是负分；第二性化女角色；有对话用男性称谓称呼主角；男角色骚扰女角色；和幻兽帕鲁联动；女角色被攻击后骄喘,
+570,Drill Core,钻核公司,   肉鸽塔防，不推荐，游戏里只有三个人形工种全都是男的。ceo八成也是男的。旁白有一个女声。前期有意思，后期重复度高,
+571,FORSPOKEN,魔咒之地,   前面太慢热了，拖拉了好久才进入战斗爽阶段，含女量很高，但是那条公手镯一直吊吊赖赖太烦了,
+572,Assassin's Creed Chronicles: China,刺客信条编年史：中国,   很典的外国人眼里的怪味中国。配音也怪腔怪调的，人物动作也不够流畅,
+573,Rogue Legacy 2,盗贼遗产2,   游戏节奏快，每次阵亡后要三选一后代继续新局，有女有v。画风音乐都不错，雷点是法师升级后不论性别必须有白色胡子,
+574,Baldur's Gate 3,博德之门3,   简中翻译含辱女词,
+575,Control,控制,   除了主角，历任局长都是老白男,
+576,Assassin's Creed Odyssey,刺客信条：奥德赛,   纯男主换皮“大女主”；主角突发调情像性骚扰；女性有巨大体型差；大量内容提及伎院；有帮烂裤裆盟友运送假几把的任务,
+577,Bloomtown: A Different Story,布鲁姆镇：另一个故事,   锁女主，玩法抄p5r；女性友好度一般，jrpg风；npc服装非常辣眼，npc体感女少男多；主角团2女2男；工作室有女性但很少,
+578,FAR: Lone Sails,孤帆远航,   女主，风景好的悠闲捡垃圾游戏，主角力气特别大可以徒手拖车,
+579,Remember Me,勿忘我,   除了操控的是个女主之外纯屎，女主女配造型全凝，男的全正常，剧情女少男多，为数不多有戏份的女配或蠢或单薄或弱,
+580,The Elder Scrolls V: Skyrim,上古卷轴5：天际,【魔女组：批评】,https://www.douban.com/group/topic/284388404/
+581,NORCO,诺科,【魔女组：批评】,https://www.douban.com/group/topic/284598263/
+582,Fallout,辐射系列,【魔女组：批评】,https://www.douban.com/group/topic/284602241/
+583,cozy grove,和睦森林,【魔女组：批评】,https://www.douban.com/group/topic/284655914/
+584,Loretta,洛蕾塔,【魔女组：批评】,https://www.douban.com/group/topic/286302835/
+585,The Cosmic Wheel Sisterhood,宇宙之轮姐妹会,【魔女组：批评】,https://www.douban.com/group/topic/290497184/
+586,Dragon's Dogma 2,龙之信条2,【魔女组：批评】,https://www.douban.com/group/topic/301085864/
+587,Feed the Cups,杯杯倒满 ,【魔女组：批评】,https://www.douban.com/group/topic/306240392/
+588,The Walking Dead,行尸走肉,【魔女组：批评】,https://www.douban.com/group/topic/314269189/
+589,The Walking Dead: A New Frontier,行尸走肉：新边境,【魔女组：批评】,https://www.douban.com/group/topic/314269189/
+590,Lifeline,生命线系列 ,【魔女组：批评】,https://www.douban.com/group/topic/314778452/
+591,Astro Bot,宇宙机器人,【魔女组：批评】【链接已失效】,https://www.douban.com/group/topic/316395631/
+592,Assassin's Creed Odyssey,刺客信条：奥德赛,【魔女组：批评】我组媎妹发在女玩组的批评贴,https://www.douban.com/group/topic/295414167/
+593,The Witcher 3: Wild Hunt,巫师3：狂猎,【魔女组：男主控游戏火刑场🔥】  见评论，性病老登游戏过于恶心此处不予展示,
+594,The Red Strings Club,红弦俱乐部,【魔女组：男主控游戏火刑场🔥】  见评论，漏屎货游戏过于恶心此处不予展示,
+595,Bee: The Knight,蜜蜂大冒险 ,【魔女组：男主控游戏火刑场🔥】  见评论，incle聚集游戏过于恶心此处不予展示,
+596,A WAY OUT,逃出生天,【魔女组：男主控游戏火刑场🔥】  见评论，双倍超雄游戏过于恶心此处不予展示,
+597,ゼルダの伝説 ブレス オブ ザ ワイルド,塞尔达传说 旷野之息,【魔女组：男主控游戏火刑场🔥】  见评论，日式小登游戏过于恶心此处不予展示,
+598,逆転裁判123 成歩堂セレクション,逆转裁判123 成步堂精选集,【魔女组：男主控游戏火刑场🔥】  见评论，吃女男同游戏过于恶心此处不予展示,
+599,NieR:Automata / ニーア オートマタ,尼尔：机械纪元,【魔女组：男主控游戏火刑场🔥】  见评论，性化女性爆火游戏过于恶心此处不予展示,
+600,Dragon Age:Origins,龙腾世纪：起源,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：宣传基本全用腩主控+蝻凝+登味+强女加入冒险纯为了生孩子,
+601,Twelve Minutes,十二分钟,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：男主控与亲妹妹乱伦、结昏并栽赃虐杀怀孕的妻子,
+602,Yuppie Psycho,雅皮士精神,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：虐女+女性机器人叫男主“爸爸”配“daddy”语音+女男服装差异,
+603,Evil Within,恶灵附身系列,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：擦边麦麸，男凝，疟女，牺牲三个女人，捧杀式赞美“母性的无私奉献”。,
+604,Chicken Police,公鸡神探,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：顾影自怜老登男主控，倒反天罡让猫做鼠的妻虏弱化性化雌性,
+605,The Council,议会,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：丑♂高谈阔论女用来满足欲望的男主控游戏角色,
+606,龍が如く0 誓いの場所,如龙0 誓约的场所,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：宣传请几十位成人片女优做npc，有公关俱乐部模拟经营游戏，电话模式全是擦边镜头,
+607,Pankapu,潘卡普：守梦人,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：免费跑酷游戏，全是♂，没什么女角色,
+608,Beholder,旁观者,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：偷窥游戏，极全背景男角色肥得流油女角色又瘦又弱，主控女儿一直在生病，污名化女⭕️,
+609,Fallout Shelter,辐射：避难所,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：taptap广告标语“男人与狗漫游废土”，末日背景让主控操作女人和♂交配生子,
+610,DICEOMANCER,骰子浪游者,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：装无性别但主控被喊大哥”，几乎无女角色，小怪一堆“xx哥”，各种公畜爱用梗.味冲天,
+611,Labyrinth City: Pierre the Maze Detective,迷宫大侦探,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：主角男，反派男，地图内也是腩味很冲，女人只能当挂件人均服弱役,
+612,Plants vs. Zombies,植物大战僵尸,【魔女组：男主控游戏火刑场🔥】  见评论，省流版：虽然无主控但也没差，所有植物和僵尸只有太阳花和金银花是女的，其它植物代词都是“he”,
+613,No Case Should Remain Unsolved,尘埃终须落定,【魔女组：全男/男味制作组石刑场🪨】    单男制作组。见评论，省流版：又是老套的女儿早夭之后妈失心疯，跌不离不弃+老婆死了n年v子还装深情的剧情,
+614,Citizen Sleeper,深空梦里人,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+615,Citizen Sleeper 2: Starward Vector,深空梦里人2,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+616,Bloodless,无血武士,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：POINT N' SHEEP,
+617,Return of the Obra Dinn,奥伯拉丁的回归,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+618,"Papers, Please",请出示证件,【魔女组：全男/男味制作组石刑场🪨】    单男制作组。见评论，省流版：简介扮演海关，结果“我”是点子还有妻子儿子舅舅，有伎女发小名片,
+619,ANIMAL WELL,动物井,【魔女组：全男/男味制作组石刑场🪨】    单男制作组。见评论，省流版：在steam发自己和动物亲近的照片来拉票，爱装的小仙男一枚呀😅,
+621,Clair Obscur：Expedition 33,光与影：33号远征队,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Sandfall Interactive。见评论，省流版：蹭黑🐒，服装差别和male gaze服装,
+622,Frostpunk,冰汽时代,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组11bit studios，把男主控偷偷藏在交易卡里；官号发咯噔小作文，含辱女词,
+623,This War of Mine,这是我的战争,【魔女组：全男/男味制作组石刑场🪨】避雷制作组11bit studios，用词有“他xx”+小黑盒官号管所有玩家叫兄弟们，女玩反馈但总部说没～问～题~,
+624,The Invincible,无敌号,【魔女组：全男/男味制作组石刑场🪨】避雷制作组11bit studios，用词有“他xx”+小黑盒官号管所有玩家叫兄弟们，女玩反馈但总部说没～问～题~ （发行商）,
+625,INDIKA,印蒂卡,【魔女组：全男/男味制作组石刑场🪨】避雷制作组11bit studios，用词有“他xx”+小黑盒官号管所有玩家叫兄弟们，女玩反馈但总部说没～问～题~ （发行商）,
+626,Carto,无尽旅图,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Sunhead Games,
+627,Babushka's Glitch Dungeon Crystal,老奶的故障地牢大冒险,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+628,Cosmic Ultramarine,宇宙群青 ,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：21st Nostalgia，玩家进游戏被喊“兄弟”，发差评后被制作组不断骚扰,
+629,Flintlock: The Siege of Dawn,燧石枪：黎明之围,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：A44 Games，与Sweet Baby（让游戏“更包容、更多元化”的咨询服务公司）划清界限讨好男玩家,
+630,Cannibal Tales,,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Fantastico Studio,
+631,A Sketchbook About Her Sun,,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Fantastico Studio。（发行商）,
+632,Will Die Alone,,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Fantastico Studio。（发行商）,
+633,Withering Rooms,枯萎的房间,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：moonless Formless,
+634,Withering Realms,枯萎的领域,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：moonless Formless,
+635,The Convenience Store,夜勤事件,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Chilla's Art,
+636,The Bathhouse,地狱钱汤,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Chilla's Art,
+637,Space Sprouts,星空之芽,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Schleuder Games,
+638,Lobotomy Corporation | Monster Management Simulation,脑叶公司｜模拟怪物管理,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Project Moon，副美因为入职前的女权言论被韩男炎上和死亡威胁，公司开除了副美。,
+639,Library Of Ruina,废墟图书馆,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Project Moon，副美因为入职前的女权言论被韩男炎上和死亡威胁，公司开除了副美。,
+640,Limbus Company,,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Project Moon，副美因为入职前的女权言论被韩男炎上和死亡威胁，公司开除了副美。,
+641,Cozy Island ,舒舒服服小岛时光,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：LazyFish Studio。见评论，省流版：主角蛋白质头巾，还是国产全男制作者,
+642,Dinkum,金垦小镇,【魔女组：全男/男味制作组石刑场🪨】    单男制作组。见评论，省流版：虚假无性别,
+643,Noita,巫婆,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Nolla Games，主角是“女巫”但人称是they；工作室主页显示全男，只搜到到几个边缘女性工作人员,
+644,BoingBoing Animals,,【魔女组：全男/男味制作组石刑场🪨】    喊玩家“大哥”,
+645,Unavowed,秘密结社,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组Wedjet Eye Games，老惯犯了用女主角把人骗进来看老💡故事,
+646,Old Skies,旧日天空,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组Wedjet Eye Games，老惯犯了用女主角把人骗进来看老💡故事,
+647,The Excavation of Hob's Barrow,霍布古墓发掘记,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组Wedjet Eye Games，老惯犯了用女主角把人骗进来看老💡故事,
+648,Technobabylon,科技巴比伦,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组Wedjet Eye Games，老惯犯了用女主角把人骗进来看老💡故事,
+649,Methods: The Detective Competition,探案法：侦探大赛,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+650,Methods: The Canada Files,探案法：加拿大档案,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+651,Methods: The Illusion Murders,探案法：幻象谋杀案,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+652,CATO: Buttered Cat,CATO 黄油猫,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Team Woll，双男制作人，蹭🐵还玩黄油梗,
+653,Sizeable,变大变小,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Business Goose Studios，有关卡剪掉头发会有莫名其妙的凄厉的女性尖叫，物化且暗示疯女人,
+654,TOEM: A Photo Adventure,时间：摄影冒险,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Something We Made，全成就必经历酒店大堂大幅全男照片晦气的一幕；虚假无性别,
+655,TOEM 2,,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Something We Made。,
+656,Lofi Ping Pong,节奏乒乓,【魔女组：全男/男味制作组石刑场🪨】    单男制作组，在网上发布低俗内容；游戏中像素小人都男凝,
+657,Cuphead,茶杯头,【魔女组：全男/男味制作组石刑场🪨】    避雷全男制作组：Studio MDHR Entertainment Inc.，且第二性化女角色,
+658,14 Minesweeper Variants,14种扫雷变体,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Artless Games，发表“这作真靠兄弟们”“萝莉控”“幼女”“雌小鬼”等恶臭言论,
+659,Eaves,重檐,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：KaKaBoBi Studio，蹭🐒,
+660,Leap Year,闰跃之年,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+661,Pixel Art Academy: Learn Mode,像素画学院,【魔女组：全男/男味制作组石刑场🪨】    单男制作组。见评论，省流版：半成品+开发者化身的M字开腿q版♂小人进行指引,
+662,Crashlands,崩溃大陆,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Butterscotch Shenanigans，海报+宣传视频都无女工作人员,
+663,Crashlands 2,崩溃大陆2,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Butterscotch Shenanigans，海报+宣传视频都无女工作人员,
+664,ibb & obb,艾波与欧波,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Sparpweed，音乐部分是一个含少量女的工作室做的，其余全难负责,
+665,Cult of the lamb,咩咩启示录,【魔女组：全男/男味制作组石刑场🪨】    避雷制作组：Massive Monster，dlc更新“玩家翘首以盼的涩涩内容”,
+666,Everafter Falls,永瀑镇,【魔女组：全男/男味制作组石刑场🪨】    单男制作组,
+667,Capcom,卡普空公司,"【魔女组：全男/男味制作组石刑场🪨】    见评论，省流版：职权骚扰新闻，问女性员工“什么时候决定生孩子,什么时候结昏”；搞职场霸凌逼迫女员工辞职",
+668,Ubisoft,育碧公司,【魔女组：全男/男味制作组石刑场🪨】    见评论，省流版：高层人员搞兄弟会、心理骚扰、性骚扰、性侵、降低游戏中女角色作用与戏份；微博账号蹭🐵,
+669,Paradox,Paradox公司（俗称P社）,【魔女组：全男/男味制作组石刑场🪨】    见评论，省流版：调查显示44%员工遭虐待，女性员工中占到69%,
+670,我只需要一阵风……,我只需要一阵风……,【魔女组：全男/男味制作组石刑场🪨】    单男制作组。,
+671,Summer House,夏日小屋,【魔女组：无女制作人游戏火葬场🔥】  ,
+672,Spirit City: Lofi Sessions,灵魂之城:Lofi庭会,【魔女组：无女制作人游戏火葬场🔥】  ,
+673,Strange Horticulture,奇异园艺,【魔女组：无女制作人游戏火葬场🔥】  ,
+674,Loretta,洛蕾塔,【魔女组：无女制作人游戏火葬场🔥】 ,
+675,TOHU,,【魔女组：无女制作人游戏火葬场🔥】 ,
+676,Outside the Blocks,,【魔女组：无女制作人游戏火葬场🔥】  ,
+677,Kejora,,【魔女组：无女制作人游戏火葬场🔥】  ,
+678,Agent A: A puzzle in disguise,特工A：伪装游戏,【魔女组：无女制作人游戏火葬场🔥】 ,
+679,Winter Burrow,冬季洞穴,【魔女组：无女制作人游戏火葬场🔥】 ,
+680,Fling to the Finish,终极拉扯,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：SplitSide Games,
+681,PICO PARK,Pico公园（Pico Park系列）,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：TECOPARK,
+682,Biped,只只大冒险,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：Postmeta Games,
+683,Biped 2,只只大冒险2,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：Postmeta Games,
+684,Death Coming,死神来了,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：Postmeta Games,
+685,Milk outside a bag of milk outside a bag of milk,牛奶袋外面有一袋牛奶袋外面有一袋牛奶,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：Nikita Kryukov。虐女，目标人群是有相似心理障碍经历的人群以及喜欢品味疟女的cgg,
+686,Kirin Come,麒麟来了,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：Nikita Kryukov,
+687,this morning I decided to die,今天早上我决定去死,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：Nikita Kryukov,
+688,q.u.q.,,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：Nikita Kryukov,
+689,OneShot: World Machine Edition,一次机会：世界机器版,【魔女组：无女制作人游戏火葬场🔥】 避雷整个制作组：Future Cat LLC,
+690,No Case Should Remain Unsolved,尘埃终须落定,男作者（单人制作）,
+691,Citizen Sleeper,深空梦里人,男作者（单人制作）,
+692,Citizen Sleeper 2: Starward Vector,深空梦里人2,男作者（单人制作）,
+693,Leap Year,闰跃之年,男作者（单人制作）,
+694,Animal Well,动物井,男作者（单人制作）,
+695,Return of the Obra Dinn,奥伯拉丁的回归,男作者（单人制作）,
+696,"Papers, Please",请出示证件,男作者（单人制作）,
+698,Babushka's Glitch Dungeon Crystal,老奶的故障地牢大冒险,男作者（单人制作）,
+699,Dinkum,金垦小镇,男作者（单人制作）,
+700,Methods: The Detective Competition,探案法：侦探大赛,男作者（单人制作）,
+701,Methods: The Canada Files,探案法：加拿大档案,男作者（单人制作）,
+702,Methods: The Illusion Murders,探案法：幻象谋杀案,男作者（单人制作）,
+703,Lofi Ping Pong,节奏乒乓,男作者（单人制作）,
+704,Pixel Art Academy: Learn Mode,像素画学院,男作者（单人制作）,
+705,Everafter Falls,永瀑镇,男作者（单人制作）,
+706,我只需要一阵风……,我只需要一阵风……,男作者（单人制作）,
+707,Bloodless,无血武士,全男制作组,
+708,Carto,无尽旅图,全男制作组,
+709,Cannibal Tales,,全男制作组,
+710,A Sketchbook About Her Sun,,全男制作组（发行商）,
+711,Will Die Alone,,全男制作组（发行商）,
+712,Withering Rooms,枯萎的房间,全男制作组,
+713,Withering Realms,枯萎的领域,全男制作组,
+714,The Convenience Store,夜勤事件,全男制作组,
+715,The Bathhouse,地狱钱汤,全男制作组,
+716,Space Sprouts,星空之芽,全男制作组,
+717,Cozy Island ,舒舒服服小岛时光,全男制作组,
+718,CATO: Buttered Cat,CATO 黄油猫,全男制作组,
+719,Sizeable,变大变小,全男制作组,
+720,TOEM: A Photo Adventure,时间：摄影冒险,全男制作组,
+721,TOEM 2,,全男制作组,
+722,Cuphead,茶杯头,全男制作组,
+722,wadjet eyes,秘密结社/霍布古墓发掘记制作组,俩男制作人在credits放自己的大头照，很丑/《秘密结社》看似可以组全女队伍，但是老白男队友香火叙述那段情节会强制女队友下线,
+722,pixel art academy: learn mode ,像素学院,男制作人在开发商页面放自己的大头照，很丑,
+722,cats hidden around  world2,, 胸罩猫,
+722,Assassin’s Creed Shadow,刺客信条·影,https://www.douban.com/doubanapp/dispatch?uri=%2Fgroup%2Ftopic%2F330636963%3F_spm_id%3DMjE1MjgxOTY5&_i,
+722,Ithya: Magic Studies,伊西亚·魔法研习,https://www.douban.com/doubanapp/dispatch?uri=%2Fgroup%2Ftopic%2F326918630%3F_spm_id%3DMjE1MjgxOTY5&_i,
+723,Beyond Blue,深海超越,【魔女组打分：+2】固定女主角海洋科普潜水游戏 ,https://www.douban.com/group/topic/330565136/?_spm_id=MTg4Njc0MjM1&_i=2124089Rl4axPF
+724,wingspan,展翅翱翔,【魔女组打分：-6】玩法无关人类，但细节上偷偷藏不住 ,https://www.douban.com/group/topic/330172389/?_spm_id=MjgzMzYyMzIy&_i=2124242Rl4axPF
+725,spilled！,,【魔女组打分：+2】清新治愈像素小游戏，环保主义冲水模拟器 ,https://www.douban.com/group/topic/330166140/?_spm_id=MjgzMzYyMzIy&_i=2124268Rl4axPF
+726,Mass Effect Legendary Edition,质量效应传奇版,【魔女组打分：-55】,https://www.douban.com/group/topic/328962260/?_spm_id=MjUzMzkxNjIw&_i=2124270Rl4axPF
+727,Chicory: A Colorful Tale,神笔狗良,【魔女组打分：+5】充满色彩的故事,https://www.douban.com/group/topic/328556461/?_spm_id=MjUzMzkxNjIw&_i=2124273Rl4axPF
+728,lost in random,迷失随机,【魔女组打分：-26】姐妹情但是巨多男性npc,https://www.douban.com/group/topic/328424915/?_spm_id=MjgzMzYyMzIy&_i=2124274Rl4axPF
+729,paquerette down the bunburrows,,【魔女组打分：-12】侦探之重构姓名发现跨 ,https://www.douban.com/group/topic/327176006/?_spm_id=MjY1OTg0OTIx&_i=2124276Rl4axPF
+730,REKA,女巫,"【魔女组】省流：
+女主爽游，天选之女和老巫婆游历世界。色彩光影美丽，bgm有民族风情很有氛围感，英文文本简洁通俗富有韵律，女男比相对高，总体氛围舒适。新史低¥ 53.20折扣中。
+但EA内容少，优化烂，bug多，无中文。",https://www.douban.com/group/topic/326330234/?_spm_id=MTcyMjQ5Nzkx&_i=2124277Rl4axPF
+731,Loddlenaut,海洋清洁,【魔女组打分：+2】养一些个头小小但超能吃的洛螈,https://www.douban.com/group/topic/326073099/?_spm_id=MTcyMjQ5Nzkx&_i=2124279Rl4axPF
+732,virtual cottage,虚拟小屋,【魔女组】steam平台的免费番茄钟软件 ,https://www.douban.com/group/topic/326253994/?_spm_id=MjgzMzYyMzIy&_i=2124281Rl4axPF
+733,Bloomtown,盛放小镇,【魔女组打分：-44】 锁女主版p5r，游戏界的男冠女戴，但不推荐,https://www.douban.com/group/topic/325720285/?_spm_id=MTcyMjQ5Nzkx&_i=2124283Rl4axPF
+734,Assassin's Creed Valhalla,刺客信条：英灵殿,可选女主但被叫“Father”；致死含男量；数个拉皮条任务，主线不可推卸；辱女词,
+735,The Witcher 3: Wild Hunt,巫师3：狂猎,"拥有养胃、不举、无精等男科疾病的男玩家有福啦！玩这款游戏会特别有代入感！
+其一，男主无法提供配子，同样拥有男科疾病；
+其二，男主的男科疾病无法被治愈，兄弟们不用担心背刺；
+其三，男性角色一个赛一个的阉肛，实属男子本色；
+其四，此游好评如潮，很多兄弟都夸非常有代入感！",固定男主含屎量不必多说
+736,Pentiment,隐迹渐现,以现实、历史题材作为厌女情节的遮羞布,https://www.douban.com/group/topic/330728238/
+737,Spellcaster University,咒术师学院,开场的男旁白、前任是男校长、很典男翻译，几乎没有的新手指引，还只能看一次,
+738,Plants vs. Zombies ,植物大战僵尸,男味超标,https://www.douban.com/doubanapp/dispatch?uri=%2Fgroup%2Ftopic%2F330880286%3F_spm_id%3DMjYzNDQ5MTI4&_i=524129363d68755&dt_dapp=1
+739,never alone,永不孤单,无性别诈骗，狐狸伙伴会变成人形的男的， 台词明确使用“he”的代词,
+740,100 Christmas Cats,,这一部不能关闭颜色，很难找。而且有两只高抬后腿舔睾丸的猫，有不少猫特意画出了x形状的排便器官，看着很恶心，没玩过的好友可以拉黑一下这部。,
+741,100 Capitalist Cats,,这一部也有特意画出睾丸和排泄器官的情况，又偷偷藏不住了。,
+742,100 Asian Cats,,这一部也有两三只露出睾丸的猫……😅😅,三部应该都是同一个画师画的，因为1.上色风格丑得比较有特色；2.藏猫时特别喜欢只让猫露出下半身或者屁股，其它的作品中无论怎么藏小猫都会露出头部，只有这三部作品里的猫，在奇怪的地方被“斩断”了，我认为画师对于猫不是很“有爱”。当然如果我说错了当我没说。
+743,Cats Hidden in Christmas,,交互做得还可以，点圣诞彩灯会亮、点鸟会叫、点钟表指针会转，但是点雪人帽子上的那只猫的时候突然冒出一老登的声音把我吓一跳，鉴定为偷偷藏不住。,
+744,Edna & Harvey: The Breakout,,才刚解谜几分钟，就出现了不少男配音，甚至连螺丝也是男配音，harvey也就是女主的玩偶是男的。女主穿的病号服非常容易走光，社区甚至有一张女主露内裤爬管道的图片。后续内容是否还有别的雷没玩就不知道了。,
+745,Tavern Master,酒馆带师,中文翻译如左。无法选择各职业的性别，只有服务员是女性，酒保、厨师、保安都是男性。,
+746,Laughing to Die,喜丧,以拐卖为题材的一款小游戏，越到后面越压抑，但这个压抑并没有随着游戏结束而释放，反而留在了心中。这是非常典型的弱女叙事，整个故事全程并没有看到奶奶的反抗，也没有对拐卖及购买集团进行惩罚，甚至暗示了小女孩囡囡也可能成为奶奶。,
+747,kenshi,剑士,男主创在开发商页面放自己的自画像，很丑并且单男制作,
+748,SEASON: A letter to the future,寄梦远方,女主的日记/手账被传承给了一位男性，女主和一堆丑男交朋友。女性npc形象都挺好的，但一位女性npc句句不离男。,
+749,The mildew children,霉童村,女巫题材诈骗，虐女大作,https://www.douban.com/group/topic/331043773/?_spm_id=MTY1ODM4NTYz&_i=27510342WOdhIi
+750,《料理乱斗》与《乌合之众》,《料理乱斗》与《乌合之众》,工作室小黑盒绑的steam账号有辱女词+黑吗喽全成就,都是NanZhaiGame的游戏，steam账号： https://steamcommunity.com/profiles/76561198156886902
+751,Neon Abyss,霓虹深渊,游戏立绘擦边，主创下场嘲女盟组的差评。,
+752,Rift of the necrodancer (demo),节奏裂隙,demo的引导是男，其余角色也只有一个男，完整版封面女角色全长发，工作室的女staff只占将近三分之一,
+753,SEASON: A letter to the future,寄梦远方,【魔女组打分：-15】,https://www.douban.com/group/topic/331216147
+754,Solar Ash,,【魔女组打分：-35】,https://www.douban.com/doubanapp/dispatch?uri=%2Fgroup%2Ftopic%2F331479407%3F_spm_id%3DMjM3NjU5OTY3&_i=52907601eb806db
+755,Cats Organized Neatly,,https://www.douban.com/group/topic/331549088,
+756,Birds Organized Neatly,,https://www.douban.com/group/topic/331543250,
+757,Far Cry 6,孤岛惊魂6,https://www.douban.com/group/topic/331424923,
+758,,烽火与炊烟,一个基建经营游戏在要不要做女主角的问题下陷入了两难的境地,
+759,sifu,,,
+760,Crusader Kings III,十字军之王3,"https://www.douban.com/group/topic/331670926/?_spm_id=Mjc0NjM1NzUz&_i=3165657PmiwEEW,3165663PmiwEEW",
+761,,乌合之众、料理乱斗 ,"https://www.douban.com/group/topic/331738322/?_spm_id=MjMyMzk5NjIw&_i=3166291-63MjmK,3528442Rl4axPF",
+762,NAIAD,水泽仙女,https://www.douban.com/group/topic/331691592/?_spm_id=MTY1ODM4NTYz&_i=31669172WOdhIi,
+763,Iwakura Aria/岩倉アリア,,"https://www.douban.com/group/topic/331672926/?_spm_id=MTkxMjU2MjMz&_i=3167339PmiwEEW,3167342PmiwEEW",
+764,Dungeons of Hinterberg,辛特堡传说,https://www.douban.com/group/topic/331882818/?_spm_id=MTUwNDAwNjY2&_dtcc=1&_i=33652297WMq5U6,
+765,Gris,色灰,https://www.douban.com/group/topic/331992165/?_spm_id=Mjc0NjM1NzUz&_i=3499215PmiwEEW,
+766,Monkey Mart,,https://www.douban.com/group/topic/332076195/?_spm_id=Mjg4NTcxMTkw&_i=3499365PmiwEEW,
+767,Mass Effect,质量效应,https://www.douban.com/group/topic/331979205/?_spm_id=MTc3NzMyNjcw&_i=3499452PmiwEEW,
+768,Another Crab's Treasure,蟹蟹寻宝奇遇,"RPG,无性别但本质是男,类魂",蹭黑猴游戏，表面无性别但男配音+男螃蟹。fandom显示主角性别为male及声优自述性别为非二元+倾向男性。在小黑盒上蹭剑星，画剑星的螃蟹男凝图。
+769,gris,,"主角服弱役、穿裙装。游戏画面到处是长发女人的碎片，以及后期主角被黑暗吞噬，观感不好，尤其嘴是最后被吞噬的，疑似软色情。
+补充：主角被鳗鱼追那段，鳗鱼会分裂成无数个小蝌蚪。",
+770,含雷像素风游戏总汇,《heartbeat》《米斯特利亚牧场》《太阳避难所sun haven》《cornucopia》《elin》《party hard》《莫莫多拉：月下遐想》《宇宙之轮姐妹会》《霍布古墓挖掘记》《bloomtown》《风来之国》《jack move》《Magical Delicacy》《恐怖美术馆/ib》《狂父》《梦日记》《魔女之家》《杀戮天使》《雅皮士精神》《东方夜雀食堂》《勇者蛋生》《Symphony of War: The Nephilim Saga战争交响曲：尼菲林传奇》《买个可乐饼吧》《巴别十书》《泰拉瑞亚》《downhill》《红弦俱乐部》《节奏地牢》《不死鸟传说：觉醒》《八方旅人2》《迷雾侦探》《黑暗侦探》《赛博朋克酒保行动》《不要喂食猴子》《the case of the golden idol》,给女人画乳沟、剧情恶心、厌女像素风游戏的不完全总汇,
+771,Wavetale,海浪物语/乘风破浪,主线含女量不高，女男比大概6：10，女角色多以Mrs XX的形式出现；女服弱役，末世了老妇还要穿高跟鞋戴耳环穿鼻环；死掉的爷活在主角和姥姥的对话中；支线帮俩给找阍戒；主线大战后几近末世（虽然游戏没写但是哪个性别在开战啊好难猜），大战惜存男兵在大反思（女主还得共情牠），男镇长要继续开战，女主、妈妈、另一位老妇就这么为全世界男兜屎,
+772,Dungeons of Hinterberg,辛特堡传说,出现角色9女10男1多元1公狗；可社交角色5.5女8.5男1多元1公狗；女服弱役男自然；怪物名字“矿工的寡妇”、“风之新娘”；固定男主DLC,
+773,The Centennial Case: A Shijima Story,春逝百年抄,一堆屎里藏着两根没有被消化完全的蔬菜,
+774,A Juggler's Tale Demo,,扮演女主abby，旁白是男音，世界观是马戏团表演，所以abby是马戏团的一个牵线木偶小人，长发穿裙装，demo里遇到的3个npc都是男马戏团成员，有一幕是abby表演完被男团长关进了笼子。,
+775,BLACKTAIL,女巫悲歌,女男比极低，遇到的生物绝大部分是男的；每章结束前会有一段超长动画，讲女主受虐，又长又臭；整个故事就是由于女主的特殊体质女主妈妈被村人迫害死了。女主一路寻找的姐姐也死了。女主最后还要为了拯救那些害过自己的村人而跟妈妈的灵魂决战；游戏过程中还有辱女词突脸；三个恶孩之中唯一的女孩是为了另一个男的伤害女主（男制作人马眼看世界了）,
+776,Jenny LeClue,珍妮的线索,女男比极低，主要角色包括女主只有3个女性，有一堆背景板男，除了女主妈妈各行各业都只有男的；女角色要服不同程度弱役，除了女主和妈妈其她是穿裙子；所有成年女性的称呼都是Mrs+夫姓；主线看似找妈，实际寻爹；开头有女主为了唯一的朋友（男的）和两个同龄女孩虜竞剧情；厌女背景，女二的发明家身份不能让母父知道,
+777,Alice Madness Returns,爱丽丝疯狂回归,黑暗虐女游戏，里面的成年女性有不同程度的大面积裸露，世界观严重厌女，恋童癖游戏,
+778,NAIAD,水泽仙女,长发即力量，游戏中有作者投射的男性引导水神的抽象剧情。是男性独立制作的游戏,https://www.douban.com/group/topic/331691592/?_spm_id=MTY1ODM4NTYz&_i=31669172WOdhIi
+779,Divinity  original sin,神界原罪,内裤成就,
+780,,14种扫雷变体,男制作人在b站开恶俗玩笑“电子萝莉控”,
+781,CATO,黄油猫,男制作人引用猴梗“天命人”，开黄油玩笑,
+782,lo fi ping pong,,男制作人开黄梗/游戏由一名男性独立制作,
+783,,你确定要喝这个？,作者发言“这下可以色了”,
+784,Alchemy and Weldcraft ,炼丹与电焊,沾了🐒,https://www.douban.com/group/topic/326945593/?_spm_id=MTIyNTk3MDg5&_i=16191852WOdhIi
+785,Cosmic Ultramarine,宇宙群青 ,游戏内有“兄弟”，被差评后发好友申请骚扰玩家，发言“我只是很悲伤”,
+786,,《重檐》,《重檐》卡卡波比KaKaBoBi Studio沾了猴,
+787,,魔法少女的魔女审判,circle line games微博发言，说做虐女游戏是”玩家的错“,
+788,Frostpunk,冰期时代,其实是男主控，卡牌（leader）的描述里写了he（He will be our salvation. Or curse.） 官方发布小作文里有辱女词（冰汽时代 - 各位先生女士，《新伦敦快讯报》新鲜出炉！市政厅广场将举办欢庆活动！ - Steam 新闻 https://store.steampowered.com/news/app/323190/view/3104669524542747992?l=schinese），小黑盒官方号喊玩家“雄低们”，有人写反馈贴给11 bit studios，得到回应是”这样宣传没问题“,
+789,In Verbis Virtus,吟诵者,其实是男主控，但第一人称，且商店里没说主角性别，游戏里有 裸女,
+790,,风来之国,女角色乳摇,https://www.douban.com/group/topic/247364054/?_spm_id=MTgxMjYwNDU1&_dtcc=1&_i=3512577CLJGrjn
+791,,沙石镇时光,QQ群男管理员对发黄段子放纵。微博官号发“白丝即正义”/b站号发女神告白宣传蹭《完蛋！我被美女包围了》,
+792,,虫虫生态箱,联动【和苏丹联动过的】《动物栏》,
+793,,火山的女儿,女儿叫“爸爸”是最好的回馈,
+794,This is the police ,《这就是警察》/,闝（piao）倡情节,https://www.douban.com/group/topic/303281191/?_spm_id=MjIzMDg3OTgz&_i=3513731CLJGrjn
+795,,辐射：新维加斯,黄梗,https://www.douban.com/group/topic/302320917/?_spm_id=NTQxMjU4NDk&_i=3513848CLJGrjn
+796,,吸血鬼幸存者,隐喻mtf和terf，诋毁terf,https://www.douban.com/group/topic/288093230/?_spm_id=MjExNDE2MjA5&_i=3514002CLJGrjn
+797,Dogs Organized Neatly,,"https://www.douban.com/group/topic/331610376/?_spm_id=MjYzNDQ5MTI4&_i=3078532PmiwEEW,3078581PmiwEEW",
+798,Evan’s Remains,,“翻游戏库看到我玩过这个 女主诈骗实际上剧情全是各种找男最后还莫名其妙搞煽情升华主题，打完给我看无语了 之前看着cdk便宜买的，没想到又是吃到💩了”,
+799,The Last of Us™ Part II,最后生还者2,艾莉为爹复仇＋女友接男宝,
+800,Tomb Raider /Rise of the Tomb Raider /Shadow of the Tomb Raider,"古墓丽影/9
 古墓丽影崛起/10
-古墓丽影暗影/11",劳拉为了找到父亲执意追寻的东西上山下墓四处奔波
-Life is Strange: Before the Storm,奇异人生暴风前夕,讲述女主走出父亲去世带来的阴霾除此之外即使Chloe后爹的人设是暴躁狂+控制狂最后还是让他去当了救max的好人活到最后，反而给Chloe和Joyce的母女设定烂上加烂，bay/bae线母女俩还只能活一个）
-Horizon Zero Dawn,地平线零之曙光,开头短暂缅怀了一下爹但主要还是寻母故事
-Kena: Bridge of Spirits,柯娜：精神之桥,怀念爹
-Tchia,奇娅,开头有爹，后来死了，救弟弟后被抢王位
-Hades2,黑帝斯2,"老登抢功劳，女主念叨爹的频率过高，感谢哥“如果没有哥哥接妈回家，就不会有自己的出生”，妈只出现在一个武器里“Argent Skull, Aspect of Persephone ”"
-Split Fiction,双影奇境,女主之一：“我跟我爹相依为命”
-Dishonored 2,耻辱2,明明妈才是国王但妈殉了主角还得去救爹……那个献精的破守卫也配称爹？！（守卫是耻辱1男主控）
-Assassin's Creed Odyssey,刺客信条奥德赛,主线找弟、妈，向养父复仇，袖箭dlc接男宝找夫找男儿，亚特兰dlc找亲爹祖父
-Assassin's Creed Valhalla,刺客信条英灵殿,报父仇（其实母亲一块死了，但基本没提到母亲），替便宜老哥结盟干活还要被骂
-Assassin's Creed Syndicate,刺客信条枭雄,女主伊薇从小就是好孩子优等生，比较听爹的话，继承爹的遗志做事，弟弟雅各就是那种经典大大咧咧形象行事更毛躁，爹亖了之后俩人在伦敦就因为这个分歧渐生罅隙。她在和雅各产生分歧的时候会坚持自己的想法，同时也有点慊（ qiàn ）弃雅各的没头脑。然而她所坚持的准则是和老叠强绑定的。（摘自闲聊楼盟友点评）
-Assassin's Creed Shadows,刺客信条影,女主奈绪江的爹阉魂不散
-greedfall,贪婪之秋,有个表弟，开头就要给他擦屁股
-Life is Strange: True Colors,奇异人生本色,故事主线就是调查哥的死因，围着巨因爹和超雄哥打转
-,文字游戏,通过幻想与女儿结婚表达的顾影自怜式父爱叙事 
-Control,控制,找弟
-A Plague Tale: Innocence/Requiem,瘟疫传说系列,姐姐阿米希亚为了给弟弟治病，四处奔波的冒险故事
-Hauma,豪麻,女主根据爷爷留下的日记寻找线索  弟弟是重要NPC， 存在女主救弟弟的情节
-Beyond: Two Souls,超凡双生,本故事其实姐弟叙事不算多，但是有一个结局是Jodie抛弃现实，和弟弟一起生活在灵界
-Tales of Berseria,狂战传说,因为弟弟被砂害而黑化，后续剧情里一直惦念着弟弟。 女主把一个男队友当弟弟代餐，结果对方把女主当恋爱对象看待的
-Alone in the dark,鬼屋魔影,主线是女主救叔叔，期间还为亡夫哀悼
-Röki,洛基：北欧怪奇之旅,去世的妈 酗酒的爸 失踪的弟 这个家能成全靠破碎的她!!!
-bloodless,无血武士,在对战最终boss时，巴因为“不杀”的信念没有拿武器，不敌明智被杀，主角的男侄子目睹后决定继承巴的“不杀”信念，扔掉武器和明智战斗（此时操作男侄子），打败了明智，然后游戏结束。摘自帖子（https://www.douban.com/group/topic/314751310/
-beat slayer,节奏战士,主线是女主救弟弟
-SCARLET NEXUS,绯红结系,女主Kasane和男主控其实不算真姐弟，但因为男主控的妈曾经抚养过女主，所以剧情上会偏向把她俩写成类似姐弟的关系。
-Oxenfree,奥森弗里,Alex一直深陷“害死”哥哥的阴影之中，游戏制作组觉得治愈她伤痛最好的办法是给她塞个继兄😅。Alex有大量和继兄互动的剧情，和女性角色基本上没有太多对话。
-Resident Evil 2/バイオハザード2 & Resident Evil Code: Veronica/バイオハザード コード:ベロニカ,"生化危机2
+古墓丽影暗影/11",劳拉为了找到父亲执意追寻的东西上山下墓四处奔波,
+801,Life is Strange: Before the Storm,奇异人生暴风前夕,讲述女主走出父亲去世带来的阴霾除此之外即使Chloe后爹的人设是暴躁狂+控制狂最后还是让他去当了救max的好人活到最后，反而给Chloe和Joyce的母女设定烂上加烂，bay/bae线母女俩还只能活一个）,
+802,Horizon Zero Dawn,地平线零之曙光,开头短暂缅怀了一下爹但主要还是寻母故事,
+803,Kena: Bridge of Spirits,柯娜：精神之桥,怀念爹,
+804,Tchia,奇娅,开头有爹，后来死了，救弟弟后被抢王位,
+805,Hades2,黑帝斯2,"老登抢功劳，女主念叨爹的频率过高，感谢哥“如果没有哥哥接妈回家，就不会有自己的出生”，妈只出现在一个武器里“Argent Skull, Aspect of Persephone ”",
+806,Split Fiction,双影奇境,女主之一：“我跟我爹相依为命”,
+807,Dishonored 2,耻辱2,明明妈才是国王但妈殉了主角还得去救爹……那个献精的破守卫也配称爹？！（守卫是耻辱1男主控）,
+808,Assassin's Creed Odyssey,刺客信条奥德赛,主线找弟、妈，向养父复仇，袖箭dlc接男宝找夫找男儿，亚特兰dlc找亲爹祖父,
+809,Assassin's Creed Valhalla,刺客信条英灵殿,报父仇（其实母亲一块死了，但基本没提到母亲），替便宜老哥结盟干活还要被骂,
+810,Assassin's Creed Syndicate,刺客信条枭雄,女主伊薇从小就是好孩子优等生，比较听爹的话，继承爹的遗志做事，弟弟雅各就是那种经典大大咧咧形象行事更毛躁，爹亖了之后俩人在伦敦就因为这个分歧渐生罅隙。她在和雅各产生分歧的时候会坚持自己的想法，同时也有点慊（ qiàn ）弃雅各的没头脑。然而她所坚持的准则是和老叠强绑定的。（摘自闲聊楼盟友点评）,
+811,Assassin's Creed Shadows,刺客信条影,女主奈绪江的爹阉魂不散,
+812,greedfall,贪婪之秋,有个表弟，开头就要给他擦屁股,
+813,Life is Strange: True Colors,奇异人生本色,故事主线就是调查哥的死因，围着巨因爹和超雄哥打转,
+814,,文字游戏,通过幻想与女儿结婚表达的顾影自怜式父爱叙事 ,
+815,Control,控制,找弟,
+816,A Plague Tale: Innocence/Requiem,瘟疫传说系列,姐姐阿米希亚为了给弟弟治病，四处奔波的冒险故事,
+817,Hauma,豪麻,女主根据爷爷留下的日记寻找线索  弟弟是重要NPC， 存在女主救弟弟的情节,
+818,Beyond: Two Souls,超凡双生,本故事其实姐弟叙事不算多，但是有一个结局是Jodie抛弃现实，和弟弟一起生活在灵界,
+819,Tales of Berseria,狂战传说,因为弟弟被砂害而黑化，后续剧情里一直惦念着弟弟。 女主把一个男队友当弟弟代餐，结果对方把女主当恋爱对象看待的,
+820,Alone in the dark,鬼屋魔影,主线是女主救叔叔，期间还为亡夫哀悼,
+821,Röki,洛基：北欧怪奇之旅,去世的妈 酗酒的爸 失踪的弟 这个家能成全靠破碎的她!!!,
+822,bloodless,无血武士,在对战最终boss时，巴因为“不杀”的信念没有拿武器，不敌明智被杀，主角的男侄子目睹后决定继承巴的“不杀”信念，扔掉武器和明智战斗（此时操作男侄子），打败了明智，然后游戏结束。摘自帖子（https://www.douban.com/group/topic/314751310/,
+823,beat slayer,节奏战士,主线是女主救弟弟,
+824,SCARLET NEXUS,绯红结系,女主Kasane和男主控其实不算真姐弟，但因为男主控的妈曾经抚养过女主，所以剧情上会偏向把她俩写成类似姐弟的关系。,
+825,Oxenfree,奥森弗里,Alex一直深陷“害死”哥哥的阴影之中，游戏制作组觉得治愈她伤痛最好的办法是给她塞个继兄😅。Alex有大量和继兄互动的剧情，和女性角色基本上没有太多对话。,
+826,Resident Evil 2/バイオハザード2 & Resident Evil Code: Veronica/バイオハザード コード:ベロニカ,"生化危机2
 生化危机：代号维罗妮卡"," 生化危机2：女主克莱尔为了找哥哥被卷入丧尸危机
-代号维罗妮卡:克莱尔被监禁，哥哥来救她"
-Deemo,古树旋律,女主长大后成为了钢琴家是因为钢琴家好哥当年舍生救她才令她传承了好哥的遗志，此哥虽然已死，但仍然能在小女孩脑子里化身小黑人天天弹钢琴陪伴，后来还出了DLC，剧情上的设定是女主返回这个脑海世界反复陪小黑人哥
-Hellblade：Senua's Sacrifice,地狱之刃：塞娜的献祭,主线是女主救男恋人
-black book,黑书,主线是女主救死去的男恋人，老登祖父教女主当witch
-The wreck,浮生千百事,女主前夫有大量“好男人”描写片段
-rusted moss,锈苔,有兄弟剧情，涉及剧透，这个只在结局D（真结局）表现，主角菲恩有一个🈹，根据剧情内容显然是厌恶的、而且真结局里她说的话一点也没错，虽然导致她觉得厌恶的原因很典、偏偏作者要这么写。尽管结局才表明这个🈹的身份，但这个角色游戏里还是出场率很高的
-Wavetale,乘风破浪,主角和姥姥对话里会出现不少关于主角死掉的爷。
-Who Pressed Mute on Uncle Marcus?,谁闭了马克斯叔叔的麦,女主救叔叔，调查对叔叔下毒的凶手
-Whispers of a Machine,机械密语,主角在见到Katarina的小孩之后，眼前居然出现已死前男友的幻象，然后这个死v子就无时不刻都出现在主角前面吊吊赖赖（摘自https://www.douban.com/group/topic/298018992/）
-En Garde!,击剑预备,弟弟教主角做事
-silent hill3,寂静岭,女主的爹在寂静岭1当男主控，有过大量父女情描写，当寂静岭3改女主后还是一样的多
-transistor,晶体管,《transistor》是女主控，缺点是总是有个男画外音唠唠叨叨，最后主角居然还为男恋人殉情了
-mad father,狂父,日系男凝游戏，女主爹虽然杀人放火出轨家暴十恶不赦，但女主还是舍不得他，结局还是老套的“龙生龙凤生凤（贬义）”
-Paper Trail ,纸间谜迹,女主经弟弟点播觉醒缩地成寸的神通、弟弟及许多觉醒神通的人迷失在道路中
-Eriksholm: The Stolen Dream,埃里克斯霍姆：被偷走的梦,demo里女主三句话不离弟弟，后来弟死了，再后来又去给弟报仇了
-The walking dead,行尸走肉系列,有两部是男主控，女主和男的都没有血缘关系，但是很多父女叙事，女主克莱曼婷即当妈又当姐姐，带一个小南宝
-She Remembered Caterpillars,,"玩家将会在游戏的过程中旁听到一些对话与内容，似乎是一位科学家想要救回她的父亲的故事。
-“你需要明白，这不是值不值得的问题。我知道他不是个很好的父亲，我当然知道，但爱是不需要理由的——甚至应该说，很多时候，正是因为没有理由，存在的才是爱啊。”"
+代号维罗妮卡:克莱尔被监禁，哥哥来救她",
+827,Deemo,古树旋律,女主长大后成为了钢琴家是因为钢琴家好哥当年舍生救她才令她传承了好哥的遗志，此哥虽然已死，但仍然能在小女孩脑子里化身小黑人天天弹钢琴陪伴，后来还出了DLC，剧情上的设定是女主返回这个脑海世界反复陪小黑人哥,
+828,Hellblade：Senua's Sacrifice,地狱之刃：塞娜的献祭,主线是女主救男恋人,
+829,black book,黑书,主线是女主救死去的男恋人，老登祖父教女主当witch,
+830,The wreck,浮生千百事,女主前夫有大量“好男人”描写片段,
+831,rusted moss,锈苔,有兄弟剧情，涉及剧透，这个只在结局D（真结局）表现，主角菲恩有一个🈹，根据剧情内容显然是厌恶的、而且真结局里她说的话一点也没错，虽然导致她觉得厌恶的原因很典、偏偏作者要这么写。尽管结局才表明这个🈹的身份，但这个角色游戏里还是出场率很高的,
+832,Wavetale,乘风破浪,主角和姥姥对话里会出现不少关于主角死掉的爷。,
+833,Who Pressed Mute on Uncle Marcus?,谁闭了马克斯叔叔的麦,女主救叔叔，调查对叔叔下毒的凶手,
+834,Whispers of a Machine,机械密语,主角在见到Katarina的小孩之后，眼前居然出现已死前男友的幻象，然后这个死v子就无时不刻都出现在主角前面吊吊赖赖（摘自https://www.douban.com/group/topic/298018992/）,
+835,En Garde!,击剑预备,弟弟教主角做事,
+836,silent hill3,寂静岭,女主的爹在寂静岭1当男主控，有过大量父女情描写，当寂静岭3改女主后还是一样的多,
+837,transistor,晶体管,《transistor》是女主控，缺点是总是有个男画外音唠唠叨叨，最后主角居然还为男恋人殉情了,
+838,mad father,狂父,日系男凝游戏，女主爹虽然杀人放火出轨家暴十恶不赦，但女主还是舍不得他，结局还是老套的“龙生龙凤生凤（贬义）”,
+839,Paper Trail ,纸间谜迹,女主经弟弟点播觉醒缩地成寸的神通、弟弟及许多觉醒神通的人迷失在道路中,
+840,Eriksholm: The Stolen Dream,埃里克斯霍姆：被偷走的梦,demo里女主三句话不离弟弟，后来弟死了，再后来又去给弟报仇了,
+841,The walking dead,行尸走肉系列,有两部是男主控，女主和男的都没有血缘关系，但是很多父女叙事，女主克莱曼婷即当妈又当姐姐，带一个小南宝,
+842,She Remembered Caterpillars,,"玩家将会在游戏的过程中旁听到一些对话与内容，似乎是一位科学家想要救回她的父亲的故事。
+“你需要明白，这不是值不值得的问题。我知道他不是个很好的父亲，我当然知道，但爱是不需要理由的——甚至应该说，很多时候，正是因为没有理由，存在的才是爱啊。”",
